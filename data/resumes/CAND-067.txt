@@ -1,0 +1,16 @@
+Kevin Kennedy
+Staff/Lead API Engineer  |  Ronaldside, MA  |  9 years experience
+email: kevin.kennedy@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 9 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Express.js, Git, Go, GraphQL, Kafka, Mobile UI patterns, Node.js, REST API design, SQL
+
+EXPERIENCE
+- Staff/Lead API Engineer, Huang, Cole and Pacheco (9 yrs)
+    Built and maintained systems using Mobile UI patterns, Express.js, Git; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.A. Computer Science, Jacquelineview College of Engineering

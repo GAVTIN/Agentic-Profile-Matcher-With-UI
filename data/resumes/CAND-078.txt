@@ -1,0 +1,19 @@
+Katherine Miller
+Mid-level Backend Developer  |  South Jessicaview, AK  |  2 years experience
+email: katherine.miller@example.com
+
+SUMMARY
+Mid-level backend engineer with 2 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Git, GraphQL, Kafka, Microservices, Node.js, REST API design, Redis, SQL, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Mid-level Backend Developer, Henderson, Cox and Cox (2 yrs)
+    Built and maintained systems using Django, Unit testing (Jest/PyTest), Kafka; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.A. Computer Science, East Suzanneshire Polytechnic Institute
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

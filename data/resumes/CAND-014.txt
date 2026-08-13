@@ -1,0 +1,19 @@
+Jeffrey Chavez
+Frontend Developer  |  Teresaburgh, NY  |  1 years experience
+email: jeffrey.chavez@example.com
+
+SUMMARY
+Junior frontend engineer with 1 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, HTML5, JavaScript (ES6+), Next.js, React, Redux, Redux Toolkit, Responsive Design, Storybook, TypeScript
+
+EXPERIENCE
+- Frontend Developer, Winters, Newman and Brown (1 yr)
+    Built and maintained systems using Storybook, TypeScript, Redux Toolkit; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+M.S. Computer Science, Port Colleenhaven Polytechnic Institute
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate, AWS Certified Solutions Architect – Associate

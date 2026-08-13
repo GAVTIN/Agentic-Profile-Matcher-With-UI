@@ -1,0 +1,18 @@
+Cynthia Wells
+Mid-level iOS Developer  |  New Staciemouth, UT  |  3 years experience
+email: cynthia.wells@example.com
+
+SUMMARY
+Mid-level mobile engineer with 3 years of experience building production software, primarily in Travel tech and EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+App Store / Play Store release process, Flutter, JavaScript (ES6+), Kotlin, Mobile UI patterns, Push notifications, React Native, Test automation, Xcode
+
+EXPERIENCE
+- Mid-level iOS Developer, Cook and Sons (1 yr)
+    Built and maintained systems using JavaScript (ES6+), React Native, Test automation; partnered cross-functionally to ship features in Travel tech.
+- iOS Developer, Dixon Inc (2 yrs)
+    Built and maintained systems using Flutter, App Store / Play Store release process, Mobile UI patterns; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.Tech Computer Science, Katieburgh National College of Engineering

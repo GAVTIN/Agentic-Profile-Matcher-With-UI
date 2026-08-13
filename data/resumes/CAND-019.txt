@@ -1,0 +1,18 @@
+Mark Perez
+Staff/Lead Cloud Infrastructure Engineer  |  Port Markhaven, IA  |  8 years experience
+email: mark.perez@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 8 years of experience building production software, primarily in Healthcare tech and Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD, Docker, GitHub Actions, Grafana, Helm, Jenkins, Kubernetes, Linux administration, Node.js
+
+EXPERIENCE
+- Staff/Lead Cloud Infrastructure Engineer, Guerrero Inc (4 yrs)
+    Built and maintained systems using Linux administration, Kubernetes, Helm; partnered cross-functionally to ship features in Travel tech.
+- DevOps Engineer, Smith and Sons (4 yrs)
+    Built and maintained systems using Kubernetes, Node.js, Helm; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+M.S. Computer Science, Elizabethborough University of Technology

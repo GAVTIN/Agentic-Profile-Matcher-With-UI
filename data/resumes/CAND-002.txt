@@ -1,0 +1,19 @@
+Jane Okafor
+Mid-level React Developer  |  New Roberttown, CO  |  2 years experience
+email: jane.okafor@example.com
+
+SUMMARY
+Mid-level frontend engineer with 2 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, HTML5, JavaScript (ES6+), Jest, Next.js, React, Redux, SQL, Storybook, Tailwind CSS, Webpack
+
+EXPERIENCE
+- Mid-level React Developer, Scott Group (2 yrs)
+    Built and maintained systems using Tailwind CSS, Webpack, React; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.S. Software Engineering, East William National College of Engineering
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), PMI Agile Certified Practitioner

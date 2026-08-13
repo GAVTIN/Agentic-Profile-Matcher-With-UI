@@ -1,0 +1,18 @@
+Taylor Harris
+Senior Backend Engineer  |  Johnfurt, DC  |  4 years experience
+email: taylor.harris@example.com
+
+SUMMARY
+Senior backend engineer with 4 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Docker, Git, Go, Kafka, Node.js, REST API design, SQL
+
+EXPERIENCE
+- Senior Backend Engineer, Edwards-Scott (2 yrs)
+    Built and maintained systems using Kafka, Node.js, Git; partnered cross-functionally to ship features in E-commerce.
+- Platform Engineer, Mcdaniel Group (2 yrs)
+    Built and maintained systems using Git, Kafka, Node.js; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.S. Software Engineering, Stephenland University of Technology

@@ -1,0 +1,19 @@
+William Warren
+Staff/Lead Frontend Developer  |  Tinaborough, LA  |  9 years experience
+email: william.warren@example.com
+
+SUMMARY
+Staff/Lead frontend engineer with 9 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Cypress, HTML5, JavaScript (ES6+), React, Redux, Storybook, Tailwind CSS, TypeScript, Web Accessibility (WCAG 2.1)
+
+EXPERIENCE
+- Staff/Lead Frontend Developer, Hayes LLC (9 yrs)
+    Built and maintained systems using Cypress, Tailwind CSS, React; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+B.A. Computer Science, West Harry University of Technology
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

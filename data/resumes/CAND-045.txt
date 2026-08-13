@@ -1,0 +1,19 @@
+Rebecca Jackson
+Mid-level DevOps Engineer  |  West Zacharymouth, CO  |  2 years experience
+email: rebecca.jackson@example.com
+
+SUMMARY
+Mid-level devops engineer with 2 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD, Docker, GCP, GitHub Actions, Helm, Kubernetes, Linux administration, Service mesh (Istio), TypeScript
+
+EXPERIENCE
+- Mid-level DevOps Engineer, Reed Inc (2 yrs)
+    Built and maintained systems using Linux administration, Helm, AWS; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+B.S. Computer Science, Lake Lance College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

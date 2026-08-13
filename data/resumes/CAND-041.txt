@@ -1,0 +1,19 @@
+Steven Lee
+Frontend Developer  |  Lake Ryanhaven, AS  |  1 years experience
+email: steven.lee@example.com
+
+SUMMARY
+Junior frontend engineer with 1 years of experience building production software, primarily in Fintech / BFSI. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Framer Motion, HTML5, JavaScript (ES6+), React, TypeScript, Vue.js, Webpack
+
+EXPERIENCE
+- Frontend Developer, Frank-Bradley (1 yr)
+    Built and maintained systems using HTML5, Framer Motion, Vue.js; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.S. Computer Science, West Ryan University of Technology
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

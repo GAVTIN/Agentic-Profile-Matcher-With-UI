@@ -1,0 +1,16 @@
+Aaron Barber
+Staff/Lead Data Engineer  |  Grimesmouth, ND  |  7 years experience
+email: aaron.barber@example.com
+
+SUMMARY
+Staff/Lead data engineer with 7 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+A/B testing, Airflow, ETL pipeline design, NumPy, Pandas, Power BI, PyTorch, Python, SQL, Tableau
+
+EXPERIENCE
+- Staff/Lead Data Engineer, Rosales, Mitchell and Hines (7 yrs)
+    Built and maintained systems using SQL, ETL pipeline design, PyTorch; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+M.S. Computer Science, Reedside National College of Engineering

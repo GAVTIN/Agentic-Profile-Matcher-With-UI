@@ -1,0 +1,21 @@
+Nicole Hamilton
+Staff/Lead Frontend Developer  |  South Garrettport, MH  |  9 years experience
+email: nicole.hamilton@example.com
+
+SUMMARY
+Staff/Lead frontend engineer with 9 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Cypress, HTML5, JavaScript (ES6+), Jest, Next.js, React, Redux Toolkit, TypeScript, Vue.js
+
+EXPERIENCE
+- Staff/Lead Frontend Developer, Moody-Taylor (4 yrs)
+    Built and maintained systems using HTML5, React, JavaScript (ES6+); partnered cross-functionally to ship features in Media & streaming.
+- Frontend Developer, Lowery-Kennedy (5 yrs)
+    Built and maintained systems using CSS3, Vue.js, Cypress; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+M.S. Computer Science, North Markton University of Technology
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA), MongoDB Certified Developer

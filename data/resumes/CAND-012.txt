@@ -1,0 +1,18 @@
+Anthony Rodriguez
+Senior React Developer  |  Port Erin, PA  |  6 years experience
+email: anthony.rodriguez@example.com
+
+SUMMARY
+Senior frontend engineer with 6 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Figma-to-code workflows, HTML5, JavaScript (ES6+), Micro-frontends, Next.js, React, Redux, TypeScript, Vue.js, Web Accessibility (WCAG 2.1)
+
+EXPERIENCE
+- Senior React Developer, Bass PLC (3 yrs)
+    Built and maintained systems using JavaScript (ES6+), CSS3, Next.js; partnered cross-functionally to ship features in EdTech.
+- UI Engineer, Crosby-Ramirez (3 yrs)
+    Built and maintained systems using Vue.js, JavaScript (ES6+), HTML5; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.Tech Computer Science, South Patrickmouth Polytechnic Institute

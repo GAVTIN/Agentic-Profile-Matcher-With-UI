@@ -1,0 +1,21 @@
+Julie Roberts
+Senior Backend Engineer  |  North Scott, MI  |  5 years experience
+email: julie.roberts@example.com
+
+SUMMARY
+Senior backend engineer with 5 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Git, JWT/OAuth2, Kafka, Kubernetes, Mobile UI patterns, MongoDB, Node.js, Python, REST API design, SQL, Spring Boot, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Senior Backend Engineer, Barnes PLC (2 yrs)
+    Built and maintained systems using Git, Unit testing (Jest/PyTest), Kubernetes; partnered cross-functionally to ship features in EdTech.
+- Backend Developer, Brown-Copeland (3 yrs)
+    Built and maintained systems using Node.js, MongoDB, JWT/OAuth2; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.Tech Computer Science, Daniellechester National College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate, Certified Kubernetes Administrator (CKA)

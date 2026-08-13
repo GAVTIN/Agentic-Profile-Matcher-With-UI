@@ -1,0 +1,21 @@
+Tricia Valencia
+Senior Data Scientist  |  Lake Jenniferside, WV  |  4 years experience
+email: tricia.valencia@example.com
+
+SUMMARY
+Senior data engineer with 4 years of experience building production software, primarily in EdTech and SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+A/B testing, Airflow, NumPy, Pandas, PyTorch, Python, SQL
+
+EXPERIENCE
+- Senior Data Scientist, Wood, Ramos and Sampson (2 yrs)
+    Built and maintained systems using Python, Airflow, Pandas; partnered cross-functionally to ship features in SaaS / B2B.
+- Data Engineer, Garcia-Jennings (2 yrs)
+    Built and maintained systems using Pandas, PyTorch, SQL; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.Tech Computer Science, Kaylamouth Institute of Technology
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

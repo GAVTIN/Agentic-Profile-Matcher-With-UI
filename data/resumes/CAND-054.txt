@@ -1,0 +1,19 @@
+Allen Rogers
+Senior Software Engineer (Fullstack)  |  Ramseymouth, PW  |  6 years experience
+email: allen.rogers@example.com
+
+SUMMARY
+Senior fullstack engineer with 6 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Cypress, Express.js, GraphQL, Microservices, Node.js, PostgreSQL, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Senior Software Engineer (Fullstack), Collier-Gillespie (6 yrs)
+    Built and maintained systems using Cypress, TypeScript, PostgreSQL; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.Tech Computer Science, New Amanda National College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate, AWS Certified Developer – Associate

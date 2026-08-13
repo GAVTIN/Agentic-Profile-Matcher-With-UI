@@ -1,0 +1,16 @@
+Sarah Wagner
+Analytics Engineer  |  Rebeccaton, CO  |  1 years experience
+email: sarah.wagner@example.com
+
+SUMMARY
+Junior data engineer with 1 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Machine Learning, NumPy, Pandas, Power BI, PyTorch, Python, SQL, Statistical modeling, Tableau
+
+EXPERIENCE
+- Analytics Engineer, Pugh, Henderson and Moon (1 yr)
+    Built and maintained systems using SQL, Statistical modeling, Power BI; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+B.E. Information Technology, Calderonton Polytechnic Institute

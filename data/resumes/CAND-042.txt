@@ -1,0 +1,16 @@
+Tammie Hanson
+Mid-level ML Engineer  |  Lake Rachelhaven, ME  |  2 years experience
+email: tammie.hanson@example.com
+
+SUMMARY
+Mid-level data engineer with 2 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Apache Spark, ETL pipeline design, Machine Learning, NumPy, Pandas, PyTorch, Python, React Native, SQL, Tableau, TensorFlow, dbt
+
+EXPERIENCE
+- Mid-level ML Engineer, Ware and Sons (2 yrs)
+    Built and maintained systems using NumPy, TensorFlow, Python; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.E. Information Technology, Nguyenport Polytechnic Institute

@@ -1,0 +1,19 @@
+Austin Gentry
+Frontend Engineer  |  Jasonfort, MO  |  0 years experience
+email: austin.gentry@example.com
+
+SUMMARY
+Junior frontend engineer with 0 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Figma-to-code workflows, HTML5, JavaScript (ES6+), Jest, Python, React, Redux Toolkit, TypeScript
+
+EXPERIENCE
+- Frontend Engineer, Davis PLC (1 yr)
+    Built and maintained systems using Redux Toolkit, JavaScript (ES6+), HTML5; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.S. Computer Science, Thomasberg Institute of Technology
+
+CERTIFICATIONS
+PMI Agile Certified Practitioner

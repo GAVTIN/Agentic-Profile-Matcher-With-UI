@@ -1,0 +1,21 @@
+Backend Engineer — Platform Team
+NorthBridge Financial | Remote (US timezones) | Full-time
+
+About the role
+Our Platform team owns the services that power account creation, KYC, and
+transaction processing for NorthBridge's consumer investing product. We're
+hiring a Backend Engineer to help scale these services as we grow.
+
+Requirements
+- 3+ years of professional backend experience with Node.js
+- Strong understanding of REST API design and versioning
+- Experience with a relational database (PostgreSQL preferred) and SQL
+- Experience with Git-based workflows and code review
+- Comfortable writing unit and integration tests
+
+Nice to have
+- Experience with microservices architecture
+- Experience with message queues (Kafka, RabbitMQ, or SQS)
+- Experience with Docker and container orchestration (Kubernetes)
+- Prior experience in fintech, banking, or another regulated industry
+- Experience with JWT/OAuth2-based authentication systems

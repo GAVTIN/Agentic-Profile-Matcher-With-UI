@@ -1,0 +1,19 @@
+Alex Torres
+Site Reliability Engineer  |  North Noahstad, PR  |  1 years experience
+email: alex.torres@example.com
+
+SUMMARY
+Junior devops engineer with 1 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Ansible, Azure, Bash scripting, CI/CD, Docker, GitHub Actions, Helm, Kubernetes, Linux administration, Prometheus, Service mesh (Istio)
+
+EXPERIENCE
+- Site Reliability Engineer, Martinez, Richardson and Curry (1 yr)
+    Built and maintained systems using Helm, Ansible, Docker; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.S. Computer Science, Cassandraton College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

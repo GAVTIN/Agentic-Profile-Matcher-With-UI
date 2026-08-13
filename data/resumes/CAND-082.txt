@@ -1,0 +1,21 @@
+April Booth
+Senior UI Engineer  |  Gutierrezborough, NC  |  4 years experience
+email: april.booth@example.com
+
+SUMMARY
+Senior frontend engineer with 4 years of experience building production software, primarily in Gaming and E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CSS3, Cypress, Figma-to-code workflows, HTML5, JavaScript (ES6+), Next.js, React, Redux Toolkit, TypeScript
+
+EXPERIENCE
+- Senior UI Engineer, Lamb, Martin and Kim (2 yrs)
+    Built and maintained systems using AWS, JavaScript (ES6+), Figma-to-code workflows; partnered cross-functionally to ship features in E-commerce.
+- Frontend Developer, Diaz-Ball (2 yrs)
+    Built and maintained systems using TypeScript, Figma-to-code workflows, React; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.Tech Computer Science, Cindyfort College of Engineering
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

@@ -1,0 +1,16 @@
+Michael Johnson
+QA Engineer  |  Hillshire, VI  |  0 years experience
+email: michael.johnson@example.com
+
+SUMMARY
+Junior qa engineer with 0 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+API testing, CI/CD integration, Cypress, JIRA, JavaScript (ES6+), Manual testing, Performance testing (JMeter), Postman, Python, Selenium, Test automation
+
+EXPERIENCE
+- QA Engineer, Andrews, Higgins and Carter (1 yr)
+    Built and maintained systems using Test automation, Postman, Cypress; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+B.Tech Computer Science, New Julieport Institute of Technology

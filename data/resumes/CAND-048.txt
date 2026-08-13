@@ -1,0 +1,18 @@
+Melissa Marshall
+Mid-level ML Engineer  |  Port David, DC  |  3 years experience
+email: melissa.marshall@example.com
+
+SUMMARY
+Mid-level data engineer with 3 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Airflow, Machine Learning, Pandas, Python, React, SQL, Tableau, TensorFlow, dbt
+
+EXPERIENCE
+- Mid-level ML Engineer, Duran LLC (1 yr)
+    Built and maintained systems using SQL, Pandas, React; partnered cross-functionally to ship features in Enterprise IT.
+- Analytics Engineer, Wilson-Jimenez (2 yrs)
+    Built and maintained systems using Airflow, dbt, TensorFlow; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+M.S. Computer Science, Contrerasside National College of Engineering

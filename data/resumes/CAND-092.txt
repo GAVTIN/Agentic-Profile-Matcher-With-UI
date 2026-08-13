@@ -1,0 +1,18 @@
+Eugene Higgins
+Mid-level Fullstack Developer  |  Brennanton, RI  |  3 years experience
+email: eugene.higgins@example.com
+
+SUMMARY
+Mid-level fullstack engineer with 3 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CI/CD pipelines, Cypress, GraphQL, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Mid-level Fullstack Developer, Walker-Flores (1 yr)
+    Built and maintained systems using GraphQL, CI/CD pipelines, Cypress; partnered cross-functionally to ship features in Gaming.
+- Fullstack Developer, Combs Ltd (2 yrs)
+    Built and maintained systems using React, Node.js, CI/CD pipelines; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.S. Software Engineering, East Crystalport College of Engineering

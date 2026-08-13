@@ -1,0 +1,18 @@
+James Thomas
+Mid-level Platform Engineer  |  Knightburgh, GA  |  3 years experience
+email: james.thomas@example.com
+
+SUMMARY
+Mid-level backend engineer with 3 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Express.js, FastAPI, Git, GraphQL, Kafka, Node.js, REST API design, RabbitMQ, SQL, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Mid-level Platform Engineer, Blake Group (1 yr)
+    Built and maintained systems using SQL, CSS3, Git; partnered cross-functionally to ship features in EdTech.
+- Backend Developer, Gilbert-Bullock (2 yrs)
+    Built and maintained systems using Express.js, Git, Kafka; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+M.S. Computer Science, North Chelsea Polytechnic Institute

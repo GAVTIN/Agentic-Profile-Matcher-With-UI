@@ -1,0 +1,21 @@
+Dorothy Thornton
+Staff/Lead Site Reliability Engineer  |  Davenportfort, IA  |  8 years experience
+email: dorothy.thornton@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 8 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Ansible, Azure, Bash scripting, CI/CD, Docker, GitHub Actions, Grafana, HTML5, Kubernetes, Service mesh (Istio), Terraform
+
+EXPERIENCE
+- Staff/Lead Site Reliability Engineer, Burch-Montoya (4 yrs)
+    Built and maintained systems using AWS, Azure, CI/CD; partnered cross-functionally to ship features in EdTech.
+- DevOps Engineer, Taylor, Wright and Davidson (4 yrs)
+    Built and maintained systems using Bash scripting, HTML5, GitHub Actions; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+M.S. Computer Science, Arnoldfurt College of Engineering
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

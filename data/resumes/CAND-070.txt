@@ -1,0 +1,21 @@
+Joseph Hill
+Staff/Lead Fullstack Developer  |  New Kellyberg, SC  |  8 years experience
+email: joseph.hill@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 8 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CI/CD pipelines, Cypress, Docker, Express.js, Jest, Microservices, MongoDB, Node.js, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Developer, Miller, Lucas and Williams (4 yrs)
+    Built and maintained systems using React, Redux, SQL; partnered cross-functionally to ship features in Gaming.
+- Fullstack Developer, Kim, Gonzales and Mills (4 yrs)
+    Built and maintained systems using SQL, MongoDB, Express.js; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.Tech Computer Science, Garciatown University of Technology
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate, MongoDB Certified Developer

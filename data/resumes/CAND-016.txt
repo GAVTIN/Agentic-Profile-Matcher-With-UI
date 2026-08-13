@@ -1,0 +1,19 @@
+David Bradley
+UI Engineer  |  North Jessicaland, WV  |  0 years experience
+email: david.bradley@example.com
+
+SUMMARY
+Junior frontend engineer with 0 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Framer Motion, GraphQL, HTML5, JavaScript (ES6+), Performance profiling (Lighthouse), React, Redux, Responsive Design, TypeScript, Webpack
+
+EXPERIENCE
+- UI Engineer, Harper, Smith and Buchanan (1 yr)
+    Built and maintained systems using TypeScript, Responsive Design, Angular; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.A. Computer Science, East Donna College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

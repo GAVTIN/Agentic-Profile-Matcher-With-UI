@@ -1,0 +1,16 @@
+Patrick Thornton
+Staff/Lead DevOps Engineer  |  Hughesberg, NM  |  9 years experience
+email: patrick.thornton@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 9 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Ansible, CI/CD, Docker, GitHub Actions, Grafana, Helm, Jenkins, Kubernetes, Linux administration, Prometheus, Terraform
+
+EXPERIENCE
+- Staff/Lead DevOps Engineer, Davis-Lozano (9 yrs)
+    Built and maintained systems using Prometheus, CI/CD, Docker; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.E. Information Technology, East Wayneshire State University

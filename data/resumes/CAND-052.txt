@@ -1,0 +1,16 @@
+Gary Owens
+Mid-level Fullstack Engineer  |  East Marissafurt, MH  |  2 years experience
+email: gary.owens@example.com
+
+SUMMARY
+Mid-level fullstack engineer with 2 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Cypress, Express.js, Jest, Next.js, Node.js, PostgreSQL, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Mid-level Fullstack Engineer, Atkins PLC (2 yrs)
+    Built and maintained systems using Express.js, PostgreSQL, Jest; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.S. Software Engineering, Port Nicoleshire Polytechnic Institute

@@ -1,0 +1,21 @@
+Angela Harrington
+Mid-level Platform Engineer  |  Matthewfurt, SD  |  3 years experience
+email: angela.harrington@example.com
+
+SUMMARY
+Mid-level backend engineer with 3 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+FastAPI, Git, GraphQL, Java, MongoDB, Node.js, REST API design, RabbitMQ, SQL
+
+EXPERIENCE
+- Mid-level Platform Engineer, Brown-Shaw (1 yr)
+    Built and maintained systems using Node.js, SQL, Java; partnered cross-functionally to ship features in Media & streaming.
+- Backend Developer, Hughes Inc (2 yrs)
+    Built and maintained systems using Git, Java, SQL; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+B.E. Information Technology, Port Markside Polytechnic Institute
+
+CERTIFICATIONS
+Google Cloud Professional Developer

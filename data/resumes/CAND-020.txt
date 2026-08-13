@@ -1,0 +1,20 @@
+Miranda Khan
+Staff/Lead Fullstack Developer  |  Sanchezfort, AS  |  10 years experience
+email: miranda.khan@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 10 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD, Cypress, GraphQL, Jest, Microservices, MongoDB, Next.js, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Developer, Morris, Thompson and Williams (3 yrs)
+    Built and maintained systems using Jest, AWS, CI/CD; partnered cross-functionally to ship features in Logistics.
+- Fullstack Developer, Fisher, Wilson and Brown (3 yrs)
+    Built and maintained systems using React, CI/CD, TypeScript; partnered cross-functionally to ship features in Logistics.
+- Software Engineer (Fullstack), Strickland-Palmer (4 yrs)
+    Built and maintained systems using GraphQL, Node.js, Cypress; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+M.S. Computer Science, Leeville Institute of Technology

@@ -1,0 +1,19 @@
+Cheryl Ortega
+ML Engineer  |  Byrdburgh, RI  |  0 years experience
+email: cheryl.ortega@example.com
+
+SUMMARY
+Junior data engineer with 0 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Airflow, Pandas, Power BI, PyTorch, Python, SQL, Snowflake, TensorFlow, dbt
+
+EXPERIENCE
+- ML Engineer, Webster Inc (1 yr)
+    Built and maintained systems using Power BI, Python, SQL; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.A. Computer Science, Richardtown National College of Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

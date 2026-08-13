@@ -1,0 +1,16 @@
+Leslie Alvarado
+Backend Developer  |  Lake Roymouth, HI  |  0 years experience
+email: leslie.alvarado@example.com
+
+SUMMARY
+Junior backend engineer with 0 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Express.js, Git, MongoDB, Node.js, REST API design, React, SQL, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Backend Developer, Kim Inc (1 yr)
+    Built and maintained systems using React, Git, MongoDB; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+M.S. Computer Science, West Nicholasborough State University

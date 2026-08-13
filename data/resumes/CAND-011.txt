@@ -1,0 +1,23 @@
+Justin Baker
+Staff/Lead Backend Engineer  |  Hurstfurt, MN  |  7 years experience
+email: justin.baker@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 7 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Git, MongoDB, Node.js, REST API design, SQL, TypeScript, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Staff/Lead Backend Engineer, Price LLC (2 yrs)
+    Built and maintained systems using REST API design, TypeScript, Node.js; partnered cross-functionally to ship features in E-commerce.
+- Backend Engineer, Avery, Horton and Fernandez (2 yrs)
+    Built and maintained systems using Node.js, REST API design, TypeScript; partnered cross-functionally to ship features in E-commerce.
+- Backend Engineer, Newton, Moore and Perry (3 yrs)
+    Built and maintained systems using Unit testing (Jest/PyTest), SQL, Git; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.S. Computer Science, East William National College of Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

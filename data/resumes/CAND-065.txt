@@ -1,0 +1,21 @@
+Spencer Haynes
+Senior UI Engineer  |  Angelahaven, ID  |  5 years experience
+email: spencer.haynes@example.com
+
+SUMMARY
+Senior frontend engineer with 5 years of experience building production software, primarily in Logistics and EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Figma-to-code workflows, Framer Motion, HTML5, JavaScript (ES6+), Manual testing, Next.js, React, Storybook, Tailwind CSS, TypeScript, Vite, Webpack
+
+EXPERIENCE
+- Senior UI Engineer, Jones-Lin (2 yrs)
+    Built and maintained systems using Angular, Storybook, CSS3; partnered cross-functionally to ship features in Logistics.
+- Frontend Developer, Gilbert PLC (3 yrs)
+    Built and maintained systems using Framer Motion, Angular, Vite; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+M.S. Computer Science, East Jenniferfort National College of Engineering
+
+CERTIFICATIONS
+Google Cloud Professional Developer, Meta Front-End Developer Professional Certificate

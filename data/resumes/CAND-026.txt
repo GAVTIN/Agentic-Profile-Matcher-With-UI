@@ -1,0 +1,21 @@
+Kathryn Farrell
+Mid-level Frontend Developer  |  North Susan, CO  |  3 years experience
+email: kathryn.farrell@example.com
+
+SUMMARY
+Mid-level frontend engineer with 3 years of experience building production software, primarily in E-commerce and Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Figma-to-code workflows, Framer Motion, HTML5, JavaScript (ES6+), REST API design, React, Storybook, TypeScript, Web Accessibility (WCAG 2.1), Webpack, Zustand
+
+EXPERIENCE
+- Mid-level Frontend Developer, Le, Lewis and Hayes (1 yr)
+    Built and maintained systems using Webpack, Framer Motion, REST API design; partnered cross-functionally to ship features in E-commerce.
+- UI Engineer, Gutierrez Group (2 yrs)
+    Built and maintained systems using JavaScript (ES6+), Figma-to-code workflows, Framer Motion; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.Tech Computer Science, North Brooke Institute of Technology
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

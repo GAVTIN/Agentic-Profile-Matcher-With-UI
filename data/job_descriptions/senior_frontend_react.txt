@@ -1,0 +1,35 @@
+Senior Frontend Engineer — Consumer Fintech Platform
+NorthBridge Financial | Remote (US timezones) | Full-time
+
+About the role
+NorthBridge is rebuilding our consumer investing app on a new frontend
+platform. We're looking for a Senior Frontend Engineer to help lead that
+rebuild — someone who can own features end-to-end, make solid architectural
+calls, and write code that a regulated fintech product can depend on.
+
+Requirements
+- 3+ years of professional experience building production React applications
+- Strong proficiency in TypeScript in a production codebase
+- Experience with a state management approach (Redux, Redux Toolkit, Zustand,
+  or equivalent)
+- Solid HTML5/CSS3 fundamentals and experience with responsive, cross-browser
+  UI
+- Experience writing automated frontend tests (Jest, React Testing Library,
+  Cypress, or similar)
+- Comfortable working directly with designers and product managers to shape
+  requirements, not just implement a spec
+- Bachelor's degree in Computer Science or equivalent practical experience
+
+Nice to have
+- Experience with Next.js or another React SSR/meta-framework
+- Experience with GraphQL clients (Apollo, urql, or similar)
+- Prior experience in fintech, banking, or another regulated industry
+- Familiarity with accessibility standards (WCAG 2.1 AA)
+- Experience mentoring other engineers or leading small feature teams
+- Performance optimization experience (bundle size, Core Web Vitals)
+
+What success looks like in the first 6 months
+- Shipped at least one major feature end-to-end in the new platform
+- Raised the bar on test coverage and code review quality for the frontend
+  team
+- Comfortable being the go-to person for frontend architecture questions

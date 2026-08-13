@@ -1,0 +1,21 @@
+Natalie Meza
+Staff/Lead React Developer  |  Lake Jason, TN  |  7 years experience
+email: natalie.meza@example.com
+
+SUMMARY
+Staff/Lead frontend engineer with 7 years of experience building production software, primarily in EdTech and Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, HTML5, JavaScript (ES6+), React, Redux Toolkit, SQL, Storybook, TypeScript, Web Accessibility (WCAG 2.1)
+
+EXPERIENCE
+- Staff/Lead React Developer, Marks, Cook and Aguilar (3 yrs)
+    Built and maintained systems using CSS3, Angular, Redux Toolkit; partnered cross-functionally to ship features in Healthcare tech.
+- Frontend Developer, Rangel LLC (4 yrs)
+    Built and maintained systems using TypeScript, CSS3, React; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.A. Computer Science, East Johnside National College of Engineering
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

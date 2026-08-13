@@ -1,0 +1,21 @@
+John Whitfield
+Senior Frontend Engineer  |  North Judithbury, IN  |  5 years experience
+email: john.whitfield@example.com
+
+SUMMARY
+Senior frontend engineer with 5 years of experience building production software, primarily in Fintech / BFSI. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, Figma-to-code workflows, GraphQL, HTML5, JavaScript (ES6+), Jest, Next.js, Node.js, React, Redux, Tailwind CSS, TypeScript, Web Accessibility (WCAG 2.1)
+
+EXPERIENCE
+- Senior Frontend Engineer, Gonzalez PLC (2 yrs)
+    Built and maintained systems using Node.js, Web Accessibility (WCAG 2.1), Jest; partnered cross-functionally to ship features in Fintech / BFSI.
+- Frontend Engineer, Schmidt-Mcintyre (3 yrs)
+    Built and maintained systems using Cypress, JavaScript (ES6+), Node.js; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.Tech Computer Science, Lake Curtis State University
+
+CERTIFICATIONS
+Meta Front-End Developer Professional Certificate

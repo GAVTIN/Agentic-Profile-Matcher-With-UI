@@ -1,0 +1,20 @@
+Alicia Hubbard
+Staff/Lead Backend Developer  |  Barbaraburgh, NJ  |  8 years experience
+email: alicia.hubbard@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 8 years of experience building production software, primarily in Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+FastAPI, Git, GraphQL, Java, Kafka, Microservices, MongoDB, Node.js, REST API design, Redis, SQL, Spring Boot, Test automation
+
+EXPERIENCE
+- Staff/Lead Backend Developer, Bean LLC (2 yrs)
+    Built and maintained systems using Node.js, Microservices, MongoDB; partnered cross-functionally to ship features in Media & streaming.
+- Backend Developer, Lee-Cooke (3 yrs)
+    Built and maintained systems using FastAPI, REST API design, SQL; partnered cross-functionally to ship features in Media & streaming.
+- Backend Developer, Jones Inc (3 yrs)
+    Built and maintained systems using Microservices, Java, MongoDB; partnered cross-functionally to ship features in Media & streaming.
+
+EDUCATION
+B.A. Computer Science, Moonburgh Institute of Technology

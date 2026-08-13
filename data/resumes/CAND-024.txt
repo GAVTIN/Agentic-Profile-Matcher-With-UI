@@ -1,0 +1,19 @@
+Stephanie Martin
+Principal React Developer  |  South Josephmouth, LA  |  11 years experience
+email: stephanie.martin@example.com
+
+SUMMARY
+Principal frontend engineer with 11 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, GraphQL, HTML5, JavaScript (ES6+), Micro-frontends, React, Responsive Design, Tailwind CSS, TypeScript, Vite, Webpack, Zustand
+
+EXPERIENCE
+- Principal React Developer, Hernandez, Martinez and Weber (11 yrs)
+    Built and maintained systems using Micro-frontends, Zustand, HTML5; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.Tech Computer Science, Hortonside Institute of Technology
+
+CERTIFICATIONS
+MongoDB Certified Developer

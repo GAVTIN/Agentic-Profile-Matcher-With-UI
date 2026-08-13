@@ -1,0 +1,21 @@
+Brittany Farmer
+Staff/Lead API Engineer  |  New Mariotown, DE  |  10 years experience
+email: brittany.farmer@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 10 years of experience building production software, primarily in SaaS / B2B and Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Git, Kubernetes, Node.js, Python, REST API design, SQL, Spring Boot
+
+EXPERIENCE
+- Staff/Lead API Engineer, Lopez-Martinez (5 yrs)
+    Built and maintained systems using Spring Boot, Node.js, REST API design; partnered cross-functionally to ship features in SaaS / B2B.
+- Backend Engineer, Davis-Lewis (5 yrs)
+    Built and maintained systems using Spring Boot, Kubernetes, Node.js; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+M.S. Computer Science, Natashaport College of Engineering
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

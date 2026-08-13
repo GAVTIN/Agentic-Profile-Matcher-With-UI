@@ -1,0 +1,19 @@
+Connor West
+Staff/Lead Cloud Infrastructure Engineer  |  Whitemouth, IA  |  7 years experience
+email: connor.west@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 7 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD, Docker, Helm, Kubernetes, Service mesh (Istio), Terraform
+
+EXPERIENCE
+- Staff/Lead Cloud Infrastructure Engineer, Turner, Schneider and Johnson (7 yrs)
+    Built and maintained systems using Helm, AWS, Kubernetes; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.A. Computer Science, South Lindseyside National College of Engineering
+
+CERTIFICATIONS
+AWS Certified Developer – Associate, Google Cloud Professional Developer

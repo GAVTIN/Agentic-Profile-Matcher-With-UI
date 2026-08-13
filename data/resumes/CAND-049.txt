@@ -1,0 +1,19 @@
+Tiffany Vance
+Senior Cloud Infrastructure Engineer  |  Rivasside, NV  |  5 years experience
+email: tiffany.vance@example.com
+
+SUMMARY
+Senior devops engineer with 5 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Bash scripting, CI/CD, Docker, GitHub Actions, Kubernetes, Service mesh (Istio)
+
+EXPERIENCE
+- Senior Cloud Infrastructure Engineer, Thompson-James (5 yrs)
+    Built and maintained systems using AWS, Service mesh (Istio), Bash scripting; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.S. Software Engineering, Lake Michelle National College of Engineering
+
+CERTIFICATIONS
+MongoDB Certified Developer

@@ -1,0 +1,16 @@
+Jessica Olsen
+Mid-level Cloud Infrastructure Engineer  |  Baileymouth, MD  |  2 years experience
+email: jessica.olsen@example.com
+
+SUMMARY
+Mid-level devops engineer with 2 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Ansible, CI/CD, Docker, GCP, GitHub Actions, Grafana, Kubernetes, Linux administration, Service mesh (Istio)
+
+EXPERIENCE
+- Mid-level Cloud Infrastructure Engineer, Wise, Conley and Stephenson (2 yrs)
+    Built and maintained systems using GCP, Ansible, GitHub Actions; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.A. Computer Science, Port Eugenechester College of Engineering

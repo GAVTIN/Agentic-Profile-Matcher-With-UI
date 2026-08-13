@@ -1,0 +1,20 @@
+Michael Jimenez
+Staff/Lead Frontend Developer  |  East Steven, KS  |  7 years experience
+email: michael.jimenez@example.com
+
+SUMMARY
+Staff/Lead frontend engineer with 7 years of experience building production software, primarily in Fintech / BFSI and EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Framer Motion, HTML5, JavaScript (ES6+), Performance profiling (Lighthouse), React, TypeScript, Vite, Web Accessibility (WCAG 2.1), Zustand
+
+EXPERIENCE
+- Staff/Lead Frontend Developer, Scott and Sons (2 yrs)
+    Built and maintained systems using Web Accessibility (WCAG 2.1), CSS3, Performance profiling (Lighthouse); partnered cross-functionally to ship features in EdTech.
+- UI Engineer, Bentley, Lynch and Henderson (2 yrs)
+    Built and maintained systems using CSS3, TypeScript, Vite; partnered cross-functionally to ship features in Fintech / BFSI.
+- Frontend Engineer, Young-Martinez (3 yrs)
+    Built and maintained systems using Vite, Framer Motion, HTML5; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.A. Computer Science, Scotttown Institute of Technology

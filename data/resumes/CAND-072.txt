@@ -1,0 +1,16 @@
+Benjamin Soto
+Senior Software Engineer (Fullstack)  |  East Edwardshire, ME  |  6 years experience
+email: benjamin.soto@example.com
+
+SUMMARY
+Senior fullstack engineer with 6 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CI/CD pipelines, Cypress, Express.js, Node.js, Pandas, PostgreSQL, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Senior Software Engineer (Fullstack), Ortiz-Morgan (6 yrs)
+    Built and maintained systems using React, SQL, CI/CD pipelines; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.S. Computer Science, East Davidchester State University

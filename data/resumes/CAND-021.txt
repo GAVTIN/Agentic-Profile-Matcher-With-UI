@@ -1,0 +1,21 @@
+Heather Jenkins
+Staff/Lead DevOps Engineer  |  Lake Deniseville, AR  |  7 years experience
+email: heather.jenkins@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 7 years of experience building production software, primarily in Media & streaming and Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Azure, Bash scripting, CI/CD, Docker, Kubernetes, Linux administration, Prometheus, Service mesh (Istio), Terraform
+
+EXPERIENCE
+- Staff/Lead DevOps Engineer, Hayes and Sons (3 yrs)
+    Built and maintained systems using Kubernetes, Service mesh (Istio), Linux administration; partnered cross-functionally to ship features in Enterprise IT.
+- DevOps Engineer, Williams, Logan and Camacho (4 yrs)
+    Built and maintained systems using Linux administration, Bash scripting, Service mesh (Istio); partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.S. Computer Science, Chandlerville University of Technology
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

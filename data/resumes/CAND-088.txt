@@ -1,0 +1,16 @@
+Jamie Cantu
+Principal Frontend Engineer  |  Lake John, MS  |  14 years experience
+email: jamie.cantu@example.com
+
+SUMMARY
+Principal frontend engineer with 14 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, GraphQL, HTML5, JavaScript (ES6+), Micro-frontends, Next.js, React, Responsive Design, TypeScript, Vite, Vue.js
+
+EXPERIENCE
+- Principal Frontend Engineer, Cole-Palmer (14 yrs)
+    Built and maintained systems using Vite, Vue.js, CSS3; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.S. Software Engineering, Port Kimberly University of Technology

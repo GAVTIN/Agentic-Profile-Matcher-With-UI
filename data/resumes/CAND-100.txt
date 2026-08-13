@@ -1,0 +1,18 @@
+Amanda Kramer
+Staff/Lead Cloud Infrastructure Engineer  |  New Michaelberg, CO  |  8 years experience
+email: amanda.kramer@example.com
+
+SUMMARY
+Staff/Lead devops engineer with 8 years of experience building production software, primarily in Logistics and Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Ansible, Azure, CI/CD, Docker, Git, GitHub Actions, Helm, Jenkins, Kubernetes, Prometheus, Terraform
+
+EXPERIENCE
+- Staff/Lead Cloud Infrastructure Engineer, Butler, Beck and Miller (4 yrs)
+    Built and maintained systems using Helm, AWS, Azure; partnered cross-functionally to ship features in Travel tech.
+- Cloud Infrastructure Engineer, Jones-Fox (4 yrs)
+    Built and maintained systems using GitHub Actions, Helm, AWS; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.E. Information Technology, Markchester State University

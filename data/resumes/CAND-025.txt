@@ -1,0 +1,20 @@
+Katelyn Lee
+Staff/Lead Fullstack Engineer  |  North Beth, ND  |  10 years experience
+email: katelyn.lee@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 10 years of experience building production software, primarily in Gaming and EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Docker, Jest, Microservices, Next.js, Node.js, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Engineer, Kelley, Nguyen and Vang (3 yrs)
+    Built and maintained systems using Jest, Node.js, Redux; partnered cross-functionally to ship features in EdTech.
+- Software Engineer (Fullstack), Phillips, Wagner and Jordan (3 yrs)
+    Built and maintained systems using React, TypeScript, Jest; partnered cross-functionally to ship features in EdTech.
+- Fullstack Developer, Wilson, Pena and Rich (4 yrs)
+    Built and maintained systems using Redux, Microservices, Node.js; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.S. Computer Science, Lake Leeton National College of Engineering

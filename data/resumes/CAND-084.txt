@@ -1,0 +1,18 @@
+Emily Smith
+Senior Analytics Engineer  |  Davisville, NH  |  6 years experience
+email: emily.smith@example.com
+
+SUMMARY
+Senior data engineer with 6 years of experience building production software, primarily in Logistics and SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+A/B testing, Airflow, ETL pipeline design, Machine Learning, NumPy, Pandas, Python, SQL, Snowflake, TensorFlow, dbt
+
+EXPERIENCE
+- Senior Analytics Engineer, Valentine, Joyce and Murray (3 yrs)
+    Built and maintained systems using dbt, Python, NumPy; partnered cross-functionally to ship features in Logistics.
+- Data Scientist, Strickland-Shaw (3 yrs)
+    Built and maintained systems using Snowflake, Machine Learning, Python; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.Tech Computer Science, Lake Marilynfort University of Technology

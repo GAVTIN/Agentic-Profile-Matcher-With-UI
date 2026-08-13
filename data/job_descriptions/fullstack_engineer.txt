@@ -1,0 +1,22 @@
+Fullstack Engineer — Growth Team
+NorthBridge Financial | Remote (US timezones) | Full-time
+
+About the role
+The Growth team ships fast, tests hypotheses, and owns features from the
+database to the UI. We're looking for a Fullstack Engineer who's equally
+comfortable in React and Node.js and doesn't need much hand-holding to go
+from idea to shipped feature.
+
+Requirements
+- 2+ years of professional experience working across the stack (React on the
+  frontend, Node.js on the backend, or a comparable pairing)
+- Solid TypeScript skills
+- Experience with SQL and a relational database
+- Experience shipping features independently, from design through to
+  production
+
+Nice to have
+- Experience with Next.js
+- Experience with experimentation/A-B testing frameworks
+- Experience with CI/CD pipelines
+- Startup or fast-moving product-team experience

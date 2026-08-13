@@ -1,0 +1,19 @@
+Cynthia Rogers
+Frontend Developer  |  East Edwardfurt, UT  |  0 years experience
+email: cynthia.rogers@example.com
+
+SUMMARY
+Junior frontend engineer with 0 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, GraphQL, HTML5, JavaScript (ES6+), Next.js, React, Redux, Responsive Design, TypeScript, Vite, Vue.js, Webpack
+
+EXPERIENCE
+- Frontend Developer, Graham Group (1 yr)
+    Built and maintained systems using GraphQL, Vue.js, React; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.A. Computer Science, Lake Jason Polytechnic Institute
+
+CERTIFICATIONS
+PMI Agile Certified Practitioner

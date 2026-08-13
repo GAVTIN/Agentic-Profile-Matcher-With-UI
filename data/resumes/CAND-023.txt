@@ -1,0 +1,23 @@
+Matthew Fernandez
+Senior UI Engineer  |  North Sarabury, GA  |  4 years experience
+email: matthew.fernandez@example.com
+
+SUMMARY
+Senior frontend engineer with 4 years of experience building production software, primarily in Logistics and Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, GraphQL, HTML5, JavaScript (ES6+), Performance profiling (Lighthouse), React, Redux, Redux Toolkit, TypeScript, Vite, Webpack
+
+EXPERIENCE
+- Senior UI Engineer, Boone-Simmons (1 yr)
+    Built and maintained systems using Redux, TypeScript, React; partnered cross-functionally to ship features in Gaming.
+- Frontend Engineer, Henry Group (1 yr)
+    Built and maintained systems using Webpack, HTML5, Vite; partnered cross-functionally to ship features in Gaming.
+- Frontend Engineer, Lam LLC (2 yrs)
+    Built and maintained systems using TypeScript, CSS3, Redux Toolkit; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.S. Software Engineering, Tuckerborough College of Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

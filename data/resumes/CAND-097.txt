@@ -1,0 +1,19 @@
+Joyce Turner
+Staff/Lead Fullstack Developer  |  Castanedaville, IA  |  8 years experience
+email: joyce.turner@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 8 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Cypress, Docker, Jest, Node.js, PostgreSQL, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Developer, Carlson-Smith (8 yrs)
+    Built and maintained systems using Cypress, AWS, TypeScript; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+M.S. Computer Science, Armstrongshire College of Engineering
+
+CERTIFICATIONS
+MongoDB Certified Developer

@@ -1,0 +1,20 @@
+Olivia Harris
+Senior UI Engineer  |  West Samuel, UT  |  6 years experience
+email: olivia.harris@example.com
+
+SUMMARY
+Senior frontend engineer with 6 years of experience building production software, primarily in Travel tech and E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Figma-to-code workflows, Framer Motion, HTML5, JavaScript (ES6+), Jest, Micro-frontends, Next.js, React, Redux, TypeScript, Vite
+
+EXPERIENCE
+- Senior UI Engineer, Bishop-Goodwin (2 yrs)
+    Built and maintained systems using Redux, Next.js, HTML5; partnered cross-functionally to ship features in Travel tech.
+- UI Engineer, Young-Allen (2 yrs)
+    Built and maintained systems using CSS3, Micro-frontends, Vite; partnered cross-functionally to ship features in Travel tech.
+- Frontend Developer, Mckee-Lee (2 yrs)
+    Built and maintained systems using TypeScript, CSS3, Jest; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.S. Software Engineering, Martinezbury University of Technology

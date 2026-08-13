@@ -1,0 +1,18 @@
+Stephen Mckee
+Mid-level Test Automation Engineer  |  Port Mikeside, FL  |  3 years experience
+email: stephen.mckee@example.com
+
+SUMMARY
+Mid-level qa engineer with 3 years of experience building production software, primarily in Logistics and Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+API testing, CI/CD integration, JIRA, JavaScript, Kubernetes, Manual testing, Performance testing (JMeter), Postman, Test automation
+
+EXPERIENCE
+- Mid-level Test Automation Engineer, Bell-Lane (1 yr)
+    Built and maintained systems using JavaScript, Kubernetes, API testing; partnered cross-functionally to ship features in Travel tech.
+- QA Engineer, Moore Group (2 yrs)
+    Built and maintained systems using Test automation, Kubernetes, CI/CD integration; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.Tech Computer Science, Andersonport College of Engineering

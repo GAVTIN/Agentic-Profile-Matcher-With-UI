@@ -1,0 +1,19 @@
+Cynthia Alvarez
+Software Engineer (Fullstack)  |  Westtown, CO  |  1 years experience
+email: cynthia.alvarez@example.com
+
+SUMMARY
+Junior fullstack engineer with 1 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CI/CD pipelines, Docker, Express.js, GraphQL, Node.js, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Software Engineer (Fullstack), Ford-Spencer (1 yr)
+    Built and maintained systems using SQL, Node.js, React; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+M.S. Computer Science, Jeffreybury Polytechnic Institute
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

@@ -1,0 +1,23 @@
+Carmen Rose
+Staff/Lead API Engineer  |  Brandtside, WV  |  8 years experience
+email: carmen.rose@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 8 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Git, Node.js, PostgreSQL, REST API design, Redis, SQL, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Staff/Lead API Engineer, Zhang PLC (2 yrs)
+    Built and maintained systems using Unit testing (Jest/PyTest), PostgreSQL, REST API design; partnered cross-functionally to ship features in Gaming.
+- Backend Engineer, Jones PLC (3 yrs)
+    Built and maintained systems using Git, PostgreSQL, Node.js; partnered cross-functionally to ship features in Gaming.
+- Platform Engineer, Willis and Sons (3 yrs)
+    Built and maintained systems using PostgreSQL, REST API design, SQL; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.A. Computer Science, Lake Larry University of Technology
+
+CERTIFICATIONS
+AWS Certified Developer – Associate, PMI Agile Certified Practitioner

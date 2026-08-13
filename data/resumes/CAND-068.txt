@@ -1,0 +1,19 @@
+David Griffith
+UI Engineer  |  Davidside, WV  |  1 years experience
+email: david.griffith@example.com
+
+SUMMARY
+Junior frontend engineer with 1 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Framer Motion, HTML5, JavaScript (ES6+), Next.js, React, TypeScript, Webpack
+
+EXPERIENCE
+- UI Engineer, Lopez, Jacobs and Mason (1 yr)
+    Built and maintained systems using Framer Motion, HTML5, CSS3; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.S. Computer Science, East Javier Polytechnic Institute
+
+CERTIFICATIONS
+Google Cloud Professional Developer

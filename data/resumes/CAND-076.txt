@@ -1,0 +1,21 @@
+David Baker
+Senior Fullstack Developer  |  South Danny, IN  |  4 years experience
+email: david.baker@example.com
+
+SUMMARY
+Senior fullstack engineer with 4 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+GraphQL, Jest, Next.js, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Senior Fullstack Developer, Collins Group (2 yrs)
+    Built and maintained systems using TypeScript, SQL, REST API design; partnered cross-functionally to ship features in Travel tech.
+- Fullstack Developer, Conner, Li and Santiago (2 yrs)
+    Built and maintained systems using Next.js, TypeScript, GraphQL; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.S. Computer Science, West Margaret Institute of Technology
+
+CERTIFICATIONS
+PMI Agile Certified Practitioner, Meta Front-End Developer Professional Certificate

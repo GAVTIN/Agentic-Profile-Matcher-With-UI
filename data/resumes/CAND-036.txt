@@ -1,0 +1,19 @@
+Nicole Frost
+Staff/Lead Platform Engineer  |  Port Francisco, AS  |  7 years experience
+email: nicole.frost@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 7 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Git, Kubernetes, Node.js, REST API design, SQL, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Staff/Lead Platform Engineer, Austin, Day and Johnson (7 yrs)
+    Built and maintained systems using Unit testing (Jest/PyTest), Django, Node.js; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.A. Computer Science, South Angel College of Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate, AWS Certified Developer – Associate

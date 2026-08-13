@@ -1,0 +1,23 @@
+Aaron Bell
+Senior Analytics Engineer  |  Castanedachester, ND  |  4 years experience
+email: aaron.bell@example.com
+
+SUMMARY
+Senior data engineer with 4 years of experience building production software, primarily in Enterprise IT and Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+NumPy, Pandas, PyTorch, Python, SQL, Statistical modeling
+
+EXPERIENCE
+- Senior Analytics Engineer, Berry-Mckinney (1 yr)
+    Built and maintained systems using Python, PyTorch, Pandas; partnered cross-functionally to ship features in Logistics.
+- Data Engineer, Roberts-Sullivan (1 yr)
+    Built and maintained systems using Statistical modeling, NumPy, SQL; partnered cross-functionally to ship features in Enterprise IT.
+- ML Engineer, Jackson-Meza (2 yrs)
+    Built and maintained systems using NumPy, Pandas, SQL; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.S. Computer Science, South Jeffrey University of Technology
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

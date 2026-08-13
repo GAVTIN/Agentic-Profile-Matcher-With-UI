@@ -1,0 +1,20 @@
+Timothy Stanton
+Mid-level ML Engineer  |  West Jasonbury, TN  |  3 years experience
+email: timothy.stanton@example.com
+
+SUMMARY
+Mid-level data engineer with 3 years of experience building production software, primarily in Media & streaming and Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+ETL pipeline design, Pandas, Power BI, PyTorch, Python, SQL, Snowflake, Statistical modeling, Tableau, TensorFlow
+
+EXPERIENCE
+- Mid-level ML Engineer, Boone LLC (1 yr)
+    Built and maintained systems using TensorFlow, Statistical modeling, Pandas; partnered cross-functionally to ship features in Media & streaming.
+- Analytics Engineer, Richardson, Farmer and Andrews (1 yr)
+    Built and maintained systems using Tableau, SQL, ETL pipeline design; partnered cross-functionally to ship features in Logistics.
+- Data Scientist, Bruce-Villegas (1 yr)
+    Built and maintained systems using Snowflake, Pandas, PyTorch; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+M.S. Computer Science, West Kimberlychester State University

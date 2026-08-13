@@ -1,0 +1,19 @@
+Brandy Wilson
+Staff/Lead React Developer  |  Lake Angelaview, LA  |  7 years experience
+email: brandy.wilson@example.com
+
+SUMMARY
+Staff/Lead frontend engineer with 7 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, GraphQL, HTML5, JavaScript (ES6+), Micro-frontends, Next.js, REST API design, React, Storybook, TypeScript, Vue.js, Webpack
+
+EXPERIENCE
+- Staff/Lead React Developer, Hoffman, Santiago and Jenkins (7 yrs)
+    Built and maintained systems using JavaScript (ES6+), REST API design, Storybook; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+M.S. Computer Science, Lake Matthew National College of Engineering
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

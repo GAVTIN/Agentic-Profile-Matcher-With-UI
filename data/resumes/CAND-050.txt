@@ -1,0 +1,21 @@
+Paul Larsen
+Senior React Developer  |  Katiehaven, NM  |  5 years experience
+email: paul.larsen@example.com
+
+SUMMARY
+Senior frontend engineer with 5 years of experience building production software, primarily in E-commerce and Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Figma-to-code workflows, HTML5, JavaScript (ES6+), Performance profiling (Lighthouse), React, Redux, Tailwind CSS, TypeScript, Vue.js, Web Accessibility (WCAG 2.1), Webpack
+
+EXPERIENCE
+- Senior React Developer, Hall, Hansen and Barnett (2 yrs)
+    Built and maintained systems using Tailwind CSS, CSS3, Redux; partnered cross-functionally to ship features in E-commerce.
+- UI Engineer, Jones-Hensley (3 yrs)
+    Built and maintained systems using Web Accessibility (WCAG 2.1), Performance profiling (Lighthouse), HTML5; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+M.S. Computer Science, West Scott National College of Engineering
+
+CERTIFICATIONS
+Google Cloud Professional Developer

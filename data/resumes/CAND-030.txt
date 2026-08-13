@@ -1,0 +1,21 @@
+Jaclyn Moore
+Senior Frontend Developer  |  Cherylhaven, AL  |  4 years experience
+email: jaclyn.moore@example.com
+
+SUMMARY
+Senior frontend engineer with 4 years of experience building production software, primarily in Enterprise IT and Media & streaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, Framer Motion, GraphQL, HTML5, JavaScript (ES6+), Performance profiling (Lighthouse), React, Responsive Design, Storybook, Tailwind CSS, TypeScript, Vue.js
+
+EXPERIENCE
+- Senior Frontend Developer, Reynolds Ltd (2 yrs)
+    Built and maintained systems using Framer Motion, Vue.js, JavaScript (ES6+); partnered cross-functionally to ship features in Media & streaming.
+- Frontend Engineer, Watson, Anderson and Brown (2 yrs)
+    Built and maintained systems using JavaScript (ES6+), CSS3, React; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+M.S. Computer Science, Sarahville College of Engineering
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

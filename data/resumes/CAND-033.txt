@@ -1,0 +1,16 @@
+Ray Walsh
+Software Engineer (Fullstack)  |  Evanmouth, OH  |  0 years experience
+email: ray.walsh@example.com
+
+SUMMARY
+Junior fullstack engineer with 0 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Cypress, Microservices, Next.js, Node.js, PostgreSQL, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Software Engineer (Fullstack), Schmitt PLC (1 yr)
+    Built and maintained systems using React, Microservices, Cypress; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.S. Computer Science, Hoffmanville University of Technology

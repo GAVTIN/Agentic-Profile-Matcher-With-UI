@@ -1,0 +1,19 @@
+Trevor Walker
+Senior Backend Engineer  |  Port Susanton, WV  |  5 years experience
+email: trevor.walker@example.com
+
+SUMMARY
+Senior backend engineer with 5 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Express.js, FastAPI, Git, Go, JWT/OAuth2, Node.js, Python, REST API design, SQL
+
+EXPERIENCE
+- Senior Backend Engineer, Miller, Harrell and Reese (5 yrs)
+    Built and maintained systems using FastAPI, Node.js, Git; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.Tech Computer Science, East Jamestown State University
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate

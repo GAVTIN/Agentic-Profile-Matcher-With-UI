@@ -1,0 +1,20 @@
+Marie Kim
+Staff/Lead Data Engineer  |  East Jeffreymouth, AK  |  7 years experience
+email: marie.kim@example.com
+
+SUMMARY
+Staff/Lead data engineer with 7 years of experience building production software, primarily in Travel tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+A/B testing, Airflow, ETL pipeline design, NumPy, Pandas, Power BI, Python, SQL, Tableau
+
+EXPERIENCE
+- Staff/Lead Data Engineer, Schroeder-Kramer (2 yrs)
+    Built and maintained systems using Power BI, A/B testing, NumPy; partnered cross-functionally to ship features in Travel tech.
+- Analytics Engineer, Smith, Garrison and Thomas (2 yrs)
+    Built and maintained systems using Python, Airflow, A/B testing; partnered cross-functionally to ship features in Travel tech.
+- Analytics Engineer, Fernandez and Sons (3 yrs)
+    Built and maintained systems using Pandas, Power BI, NumPy; partnered cross-functionally to ship features in Travel tech.
+
+EDUCATION
+B.A. Computer Science, New Jeffrey University of Technology

@@ -1,0 +1,21 @@
+Priya Nataraj
+Senior UI Engineer  |  New Jamesside, MT  |  4 years experience
+email: priya.nataraj@example.com
+
+SUMMARY
+Senior frontend engineer with 4 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Cypress, Figma-to-code workflows, Framer Motion, GraphQL, HTML5, JavaScript (ES6+), Jest, Micro-frontends, Next.js, React, Redux, TypeScript, Vue.js
+
+EXPERIENCE
+- Senior UI Engineer, Francis-Morgan (2 yrs)
+    Built and maintained systems using Angular, Framer Motion, HTML5; partnered cross-functionally to ship features in SaaS / B2B.
+- Frontend Engineer, Mcdonald Inc (2 yrs)
+    Built and maintained systems using React, Jest, Figma-to-code workflows; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.Tech Computer Science, South Bridget College of Engineering
+
+CERTIFICATIONS
+Google Cloud Professional Developer

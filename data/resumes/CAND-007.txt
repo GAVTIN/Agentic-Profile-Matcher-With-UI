@@ -1,0 +1,20 @@
+Darren Roberts
+Mid-level Data Engineer  |  Port Jesseville, MS  |  3 years experience
+email: darren.roberts@example.com
+
+SUMMARY
+Mid-level data engineer with 3 years of experience building production software, primarily in EdTech and Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+NumPy, Pandas, Power BI, Python, SQL, dbt
+
+EXPERIENCE
+- Mid-level Data Engineer, Harvey PLC (1 yr)
+    Built and maintained systems using Pandas, Power BI, NumPy; partnered cross-functionally to ship features in Gaming.
+- Analytics Engineer, Herman-Walker (1 yr)
+    Built and maintained systems using SQL, Python, Power BI; partnered cross-functionally to ship features in Gaming.
+- Analytics Engineer, Reid Group (1 yr)
+    Built and maintained systems using Python, SQL, Pandas; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.E. Information Technology, Shawnstad University of Technology

@@ -1,0 +1,23 @@
+Benjamin Ayala
+Mid-level React Native Developer  |  Darlenefurt, TX  |  3 years experience
+email: benjamin.ayala@example.com
+
+SUMMARY
+Mid-level mobile engineer with 3 years of experience building production software, primarily in Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Android Studio, Flutter, JavaScript (ES6+), Kotlin, Mobile UI patterns, Push notifications, React Native, Redux, Xcode
+
+EXPERIENCE
+- Mid-level React Native Developer, Morales, Thomas and Schultz (1 yr)
+    Built and maintained systems using Kotlin, Android Studio, Mobile UI patterns; partnered cross-functionally to ship features in Enterprise IT.
+- Android Developer, Davis PLC (1 yr)
+    Built and maintained systems using Xcode, JavaScript (ES6+), Redux; partnered cross-functionally to ship features in Enterprise IT.
+- Android Developer, Bennett Group (1 yr)
+    Built and maintained systems using Mobile UI patterns, Flutter, Redux; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.E. Information Technology, Sheilaville Polytechnic Institute
+
+CERTIFICATIONS
+MongoDB Certified Developer

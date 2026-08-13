@@ -1,0 +1,3285 @@
+{
+  "CAND-001": {
+    "candidate_id": "CAND-001",
+    "name": "John Whitfield",
+    "track": "frontend",
+    "current_title": "Senior Frontend Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "North Judithbury, IN",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "Figma-to-code workflows",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Next.js",
+      "Node.js",
+      "React",
+      "Redux",
+      "Tailwind CSS",
+      "TypeScript",
+      "Web Accessibility (WCAG 2.1)"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Lake Curtis State University"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Fintech / BFSI"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-002": {
+    "candidate_id": "CAND-002",
+    "name": "Jane Okafor",
+    "track": "frontend",
+    "current_title": "Mid-level React Developer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "New Roberttown, CO",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Next.js",
+      "React",
+      "Redux",
+      "SQL",
+      "Storybook",
+      "Tailwind CSS",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "East William National College of Engineering"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)",
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-003": {
+    "candidate_id": "CAND-003",
+    "name": "Priya Nataraj",
+    "track": "frontend",
+    "current_title": "Senior UI Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "New Jamesside, MT",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Cypress",
+      "Figma-to-code workflows",
+      "Framer Motion",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Micro-frontends",
+      "Next.js",
+      "React",
+      "Redux",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "South Bridget College of Engineering"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-004": {
+    "candidate_id": "CAND-004",
+    "name": "Marcus Webb",
+    "track": "frontend",
+    "current_title": "Mid-level Frontend Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Port Lindachester, MA",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Ericmouth Institute of Technology"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Logistics",
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 8
+  },
+  "CAND-005": {
+    "candidate_id": "CAND-005",
+    "name": "Alex Torres",
+    "track": "devops",
+    "current_title": "Site Reliability Engineer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "North Noahstad, PR",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "Azure",
+      "Bash scripting",
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "Helm",
+      "Kubernetes",
+      "Linux administration",
+      "Prometheus",
+      "Service mesh (Istio)"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Cassandraton College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-006": {
+    "candidate_id": "CAND-006",
+    "name": "Kimberly Dudley",
+    "track": "fullstack",
+    "current_title": "Senior Fullstack Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "Millerport, MP",
+    "skills": [
+      "AWS",
+      "CI/CD pipelines",
+      "Cypress",
+      "Docker",
+      "GraphQL",
+      "Jest",
+      "Microservices",
+      "Next.js",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Barbaraland University of Technology"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  },
+  "CAND-007": {
+    "candidate_id": "CAND-007",
+    "name": "Darren Roberts",
+    "track": "data",
+    "current_title": "Mid-level Data Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Port Jesseville, MS",
+    "skills": [
+      "NumPy",
+      "Pandas",
+      "Power BI",
+      "Python",
+      "SQL",
+      "dbt"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Shawnstad University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "EdTech",
+      "Gaming"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-008": {
+    "candidate_id": "CAND-008",
+    "name": "Henry Santiago",
+    "track": "data",
+    "current_title": "Staff/Lead Analytics Engineer",
+    "years_experience": 10,
+    "seniority": "Staff/Lead",
+    "location": "New Cynthiaside, VA",
+    "skills": [
+      "A/B testing",
+      "Airflow",
+      "CSS3",
+      "ETL pipeline design",
+      "Pandas",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Statistical modeling",
+      "Tableau"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "East Steven Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Fintech / BFSI"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-009": {
+    "candidate_id": "CAND-009",
+    "name": "Timothy Watts",
+    "track": "frontend",
+    "current_title": "Mid-level UI Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Lake Mark, WI",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Cypress",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Next.js",
+      "React",
+      "Storybook",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "East Lydiamouth State University"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-010": {
+    "candidate_id": "CAND-010",
+    "name": "Austin Gentry",
+    "track": "frontend",
+    "current_title": "Frontend Engineer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Jasonfort, MO",
+    "skills": [
+      "CSS3",
+      "Figma-to-code workflows",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Python",
+      "React",
+      "Redux Toolkit",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Thomasberg Institute of Technology"
+    },
+    "certifications": [
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-011": {
+    "candidate_id": "CAND-011",
+    "name": "Justin Baker",
+    "track": "backend",
+    "current_title": "Staff/Lead Backend Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Hurstfurt, MN",
+    "skills": [
+      "Django",
+      "Git",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "SQL",
+      "TypeScript",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "East William National College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 12
+  },
+  "CAND-012": {
+    "candidate_id": "CAND-012",
+    "name": "Anthony Rodriguez",
+    "track": "frontend",
+    "current_title": "Senior React Developer",
+    "years_experience": 6,
+    "seniority": "Senior",
+    "location": "Port Erin, PA",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Figma-to-code workflows",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "Next.js",
+      "React",
+      "Redux",
+      "TypeScript",
+      "Vue.js",
+      "Web Accessibility (WCAG 2.1)"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "South Patrickmouth Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-013": {
+    "candidate_id": "CAND-013",
+    "name": "Tricia Valencia",
+    "track": "data",
+    "current_title": "Senior Data Scientist",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Lake Jenniferside, WV",
+    "skills": [
+      "A/B testing",
+      "Airflow",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Kaylamouth Institute of Technology"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "EdTech",
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-014": {
+    "candidate_id": "CAND-014",
+    "name": "Jeffrey Chavez",
+    "track": "frontend",
+    "current_title": "Frontend Developer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Teresaburgh, NY",
+    "skills": [
+      "CSS3",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "Responsive Design",
+      "Storybook",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Port Colleenhaven Polytechnic Institute"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-015": {
+    "candidate_id": "CAND-015",
+    "name": "Brittany Farmer",
+    "track": "backend",
+    "current_title": "Staff/Lead API Engineer",
+    "years_experience": 10,
+    "seniority": "Staff/Lead",
+    "location": "New Mariotown, DE",
+    "skills": [
+      "Git",
+      "Kubernetes",
+      "Node.js",
+      "Python",
+      "REST API design",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Natashaport College of Engineering"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "SaaS / B2B",
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-016": {
+    "candidate_id": "CAND-016",
+    "name": "David Bradley",
+    "track": "frontend",
+    "current_title": "UI Engineer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "North Jessicaland, WV",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Framer Motion",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Performance profiling (Lighthouse)",
+      "React",
+      "Redux",
+      "Responsive Design",
+      "TypeScript",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "East Donna College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-017": {
+    "candidate_id": "CAND-017",
+    "name": "Carmen Rose",
+    "track": "backend",
+    "current_title": "Staff/Lead API Engineer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Brandtside, WV",
+    "skills": [
+      "Git",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "Redis",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Lake Larry University of Technology"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate",
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 2
+  },
+  "CAND-018": {
+    "candidate_id": "CAND-018",
+    "name": "Marie Kim",
+    "track": "data",
+    "current_title": "Staff/Lead Data Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "East Jeffreymouth, AK",
+    "skills": [
+      "A/B testing",
+      "Airflow",
+      "ETL pipeline design",
+      "NumPy",
+      "Pandas",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "New Jeffrey University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 2
+  },
+  "CAND-019": {
+    "candidate_id": "CAND-019",
+    "name": "Mark Perez",
+    "track": "devops",
+    "current_title": "Staff/Lead Cloud Infrastructure Engineer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Port Markhaven, IA",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "Grafana",
+      "Helm",
+      "Jenkins",
+      "Kubernetes",
+      "Linux administration",
+      "Node.js"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Elizabethborough University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Healthcare tech",
+      "Travel tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-020": {
+    "candidate_id": "CAND-020",
+    "name": "Miranda Khan",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Developer",
+    "years_experience": 10,
+    "seniority": "Staff/Lead",
+    "location": "Sanchezfort, AS",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Cypress",
+      "GraphQL",
+      "Jest",
+      "Microservices",
+      "MongoDB",
+      "Next.js",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Leeville Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 8
+  },
+  "CAND-021": {
+    "candidate_id": "CAND-021",
+    "name": "Heather Jenkins",
+    "track": "devops",
+    "current_title": "Staff/Lead DevOps Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Lake Deniseville, AR",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Bash scripting",
+      "CI/CD",
+      "Docker",
+      "Kubernetes",
+      "Linux administration",
+      "Prometheus",
+      "Service mesh (Istio)",
+      "Terraform"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Chandlerville University of Technology"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Media & streaming",
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 0
+  },
+  "CAND-022": {
+    "candidate_id": "CAND-022",
+    "name": "Connor West",
+    "track": "devops",
+    "current_title": "Staff/Lead Cloud Infrastructure Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Whitemouth, IA",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Helm",
+      "Kubernetes",
+      "Service mesh (Istio)",
+      "Terraform"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "South Lindseyside National College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate",
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-023": {
+    "candidate_id": "CAND-023",
+    "name": "Matthew Fernandez",
+    "track": "frontend",
+    "current_title": "Senior UI Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "North Sarabury, GA",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Performance profiling (Lighthouse)",
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "TypeScript",
+      "Vite",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Tuckerborough College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Logistics",
+      "Gaming"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-024": {
+    "candidate_id": "CAND-024",
+    "name": "Stephanie Martin",
+    "track": "frontend",
+    "current_title": "Principal React Developer",
+    "years_experience": 11,
+    "seniority": "Principal",
+    "location": "South Josephmouth, LA",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "React",
+      "Responsive Design",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vite",
+      "Webpack",
+      "Zustand"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Hortonside Institute of Technology"
+    },
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-025": {
+    "candidate_id": "CAND-025",
+    "name": "Katelyn Lee",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Engineer",
+    "years_experience": 10,
+    "seniority": "Staff/Lead",
+    "location": "North Beth, ND",
+    "skills": [
+      "Docker",
+      "Jest",
+      "Microservices",
+      "Next.js",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Lake Leeton National College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Gaming",
+      "EdTech"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-026": {
+    "candidate_id": "CAND-026",
+    "name": "Kathryn Farrell",
+    "track": "frontend",
+    "current_title": "Mid-level Frontend Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "North Susan, CO",
+    "skills": [
+      "CSS3",
+      "Figma-to-code workflows",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "REST API design",
+      "React",
+      "Storybook",
+      "TypeScript",
+      "Web Accessibility (WCAG 2.1)",
+      "Webpack",
+      "Zustand"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "North Brooke Institute of Technology"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "E-commerce",
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-027": {
+    "candidate_id": "CAND-027",
+    "name": "Cynthia Wilson",
+    "track": "backend",
+    "current_title": "Mid-level API Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "New Brooke, RI",
+    "skills": [
+      "Django",
+      "Git",
+      "Java",
+      "Node.js",
+      "REST API design",
+      "Redis",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "South Dianeshire Institute of Technology"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-028": {
+    "candidate_id": "CAND-028",
+    "name": "Taylor Harris",
+    "track": "backend",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Johnfurt, DC",
+    "skills": [
+      "Docker",
+      "Git",
+      "Go",
+      "Kafka",
+      "Node.js",
+      "REST API design",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Stephenland University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  },
+  "CAND-029": {
+    "candidate_id": "CAND-029",
+    "name": "Marc Hart",
+    "track": "fullstack",
+    "current_title": "Principal Fullstack Engineer",
+    "years_experience": 11,
+    "seniority": "Principal",
+    "location": "North Amandahaven, KS",
+    "skills": [
+      "AWS",
+      "CI/CD pipelines",
+      "Cypress",
+      "GraphQL",
+      "Microservices",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "West Nicole Polytechnic Institute"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-030": {
+    "candidate_id": "CAND-030",
+    "name": "Jaclyn Moore",
+    "track": "frontend",
+    "current_title": "Senior Frontend Developer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Cherylhaven, AL",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "Framer Motion",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Performance profiling (Lighthouse)",
+      "React",
+      "Responsive Design",
+      "Storybook",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Sarahville College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Enterprise IT",
+      "Media & streaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-031": {
+    "candidate_id": "CAND-031",
+    "name": "Brandy Wilson",
+    "track": "frontend",
+    "current_title": "Staff/Lead React Developer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Lake Angelaview, LA",
+    "skills": [
+      "CSS3",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "Next.js",
+      "REST API design",
+      "React",
+      "Storybook",
+      "TypeScript",
+      "Vue.js",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Lake Matthew National College of Engineering"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-032": {
+    "candidate_id": "CAND-032",
+    "name": "Sarah Wagner",
+    "track": "data",
+    "current_title": "Analytics Engineer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Rebeccaton, CO",
+    "skills": [
+      "Machine Learning",
+      "NumPy",
+      "Pandas",
+      "Power BI",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Statistical modeling",
+      "Tableau"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Calderonton Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-033": {
+    "candidate_id": "CAND-033",
+    "name": "Ray Walsh",
+    "track": "fullstack",
+    "current_title": "Software Engineer (Fullstack)",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Evanmouth, OH",
+    "skills": [
+      "AWS",
+      "Cypress",
+      "Microservices",
+      "Next.js",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Hoffmanville University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-034": {
+    "candidate_id": "CAND-034",
+    "name": "Stephen Mckee",
+    "track": "qa",
+    "current_title": "Mid-level Test Automation Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Port Mikeside, FL",
+    "skills": [
+      "API testing",
+      "CI/CD integration",
+      "JIRA",
+      "JavaScript",
+      "Kubernetes",
+      "Manual testing",
+      "Performance testing (JMeter)",
+      "Postman",
+      "Test automation"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Andersonport College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics",
+      "Travel tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-035": {
+    "candidate_id": "CAND-035",
+    "name": "Timothy Stanton",
+    "track": "data",
+    "current_title": "Mid-level ML Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "West Jasonbury, TN",
+    "skills": [
+      "ETL pipeline design",
+      "Pandas",
+      "Power BI",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Snowflake",
+      "Statistical modeling",
+      "Tableau",
+      "TensorFlow"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "West Kimberlychester State University"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Media & streaming",
+      "Logistics"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 0
+  },
+  "CAND-036": {
+    "candidate_id": "CAND-036",
+    "name": "Nicole Frost",
+    "track": "backend",
+    "current_title": "Staff/Lead Platform Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Port Francisco, AS",
+    "skills": [
+      "Django",
+      "Git",
+      "Kubernetes",
+      "Node.js",
+      "REST API design",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "South Angel College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate",
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-037": {
+    "candidate_id": "CAND-037",
+    "name": "Evelyn Galvan",
+    "track": "backend",
+    "current_title": "Mid-level Backend Developer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "West Erik, UT",
+    "skills": [
+      "Docker",
+      "Express.js",
+      "Git",
+      "Go",
+      "GraphQL",
+      "Java",
+      "Kubernetes",
+      "Microservices",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "REST API design",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "South Monicafort Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-038": {
+    "candidate_id": "CAND-038",
+    "name": "Robert Stevens",
+    "track": "backend",
+    "current_title": "Mid-level Backend Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Loribury, IN",
+    "skills": [
+      "Django",
+      "Git",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "RabbitMQ",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Lake Jamesmouth University of Technology"
+    },
+    "certifications": [
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-039": {
+    "candidate_id": "CAND-039",
+    "name": "Benjamin Ayala",
+    "track": "mobile",
+    "current_title": "Mid-level React Native Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Darlenefurt, TX",
+    "skills": [
+      "Android Studio",
+      "Flutter",
+      "JavaScript (ES6+)",
+      "Kotlin",
+      "Mobile UI patterns",
+      "Push notifications",
+      "React Native",
+      "Redux",
+      "Xcode"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Sheilaville Polytechnic Institute"
+    },
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 2
+  },
+  "CAND-040": {
+    "candidate_id": "CAND-040",
+    "name": "Debbie Carpenter",
+    "track": "fullstack",
+    "current_title": "Mid-level Software Engineer (Fullstack)",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Benjaminchester, MI",
+    "skills": [
+      "AWS",
+      "Cypress",
+      "Express.js",
+      "Jest",
+      "Microservices",
+      "MongoDB",
+      "Next.js",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Samuelhaven National College of Engineering"
+    },
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-041": {
+    "candidate_id": "CAND-041",
+    "name": "Steven Lee",
+    "track": "frontend",
+    "current_title": "Frontend Developer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Lake Ryanhaven, AS",
+    "skills": [
+      "CSS3",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "React",
+      "TypeScript",
+      "Vue.js",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "West Ryan University of Technology"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Fintech / BFSI"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-042": {
+    "candidate_id": "CAND-042",
+    "name": "Tammie Hanson",
+    "track": "data",
+    "current_title": "Mid-level ML Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Lake Rachelhaven, ME",
+    "skills": [
+      "Apache Spark",
+      "ETL pipeline design",
+      "Machine Learning",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "React Native",
+      "SQL",
+      "Tableau",
+      "TensorFlow",
+      "dbt"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Nguyenport Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-043": {
+    "candidate_id": "CAND-043",
+    "name": "Cheryl Ortega",
+    "track": "data",
+    "current_title": "ML Engineer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Byrdburgh, RI",
+    "skills": [
+      "Airflow",
+      "Pandas",
+      "Power BI",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Snowflake",
+      "TensorFlow",
+      "dbt"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Richardtown National College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-044": {
+    "candidate_id": "CAND-044",
+    "name": "Daniel Floyd",
+    "track": "frontend",
+    "current_title": "Staff/Lead Frontend Engineer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Stevenmouth, TX",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Framer Motion",
+      "HTML5",
+      "JIRA",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Next.js",
+      "React",
+      "Storybook",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "New Thomas Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  },
+  "CAND-045": {
+    "candidate_id": "CAND-045",
+    "name": "Rebecca Jackson",
+    "track": "devops",
+    "current_title": "Mid-level DevOps Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "West Zacharymouth, CO",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "GCP",
+      "GitHub Actions",
+      "Helm",
+      "Kubernetes",
+      "Linux administration",
+      "Service mesh (Istio)",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "Lake Lance College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-046": {
+    "candidate_id": "CAND-046",
+    "name": "Brittany Williams",
+    "track": "mobile",
+    "current_title": "Mobile Engineer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Carrland, NH",
+    "skills": [
+      "Android Studio",
+      "App Store / Play Store release process",
+      "Flutter",
+      "JavaScript (ES6+)",
+      "Mobile UI patterns",
+      "React Native",
+      "Swift",
+      "TypeScript",
+      "Xcode"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Mercadoshire Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-047": {
+    "candidate_id": "CAND-047",
+    "name": "Michael Snyder",
+    "track": "frontend",
+    "current_title": "Senior Frontend Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "East Diana, AL",
+    "skills": [
+      "CSS3",
+      "Figma-to-code workflows",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "React",
+      "Responsive Design",
+      "Storybook",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Port Ronaldburgh University of Technology"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Travel tech",
+      "Gaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-048": {
+    "candidate_id": "CAND-048",
+    "name": "Melissa Marshall",
+    "track": "data",
+    "current_title": "Mid-level ML Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Port David, DC",
+    "skills": [
+      "Airflow",
+      "Machine Learning",
+      "Pandas",
+      "Python",
+      "React",
+      "SQL",
+      "Tableau",
+      "TensorFlow",
+      "dbt"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Contrerasside National College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-049": {
+    "candidate_id": "CAND-049",
+    "name": "Tiffany Vance",
+    "track": "devops",
+    "current_title": "Senior Cloud Infrastructure Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "Rivasside, NV",
+    "skills": [
+      "AWS",
+      "Bash scripting",
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "Kubernetes",
+      "Service mesh (Istio)"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Lake Michelle National College of Engineering"
+    },
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-050": {
+    "candidate_id": "CAND-050",
+    "name": "Paul Larsen",
+    "track": "frontend",
+    "current_title": "Senior React Developer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "Katiehaven, NM",
+    "skills": [
+      "CSS3",
+      "Figma-to-code workflows",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Performance profiling (Lighthouse)",
+      "React",
+      "Redux",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vue.js",
+      "Web Accessibility (WCAG 2.1)",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "West Scott National College of Engineering"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "E-commerce",
+      "Logistics"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 12
+  },
+  "CAND-051": {
+    "candidate_id": "CAND-051",
+    "name": "Cynthia Rogers",
+    "track": "frontend",
+    "current_title": "Frontend Developer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "East Edwardfurt, UT",
+    "skills": [
+      "CSS3",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React",
+      "Redux",
+      "Responsive Design",
+      "TypeScript",
+      "Vite",
+      "Vue.js",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Lake Jason Polytechnic Institute"
+    },
+    "certifications": [
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-052": {
+    "candidate_id": "CAND-052",
+    "name": "Gary Owens",
+    "track": "fullstack",
+    "current_title": "Mid-level Fullstack Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "East Marissafurt, MH",
+    "skills": [
+      "Cypress",
+      "Express.js",
+      "Jest",
+      "Next.js",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Port Nicoleshire Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-053": {
+    "candidate_id": "CAND-053",
+    "name": "Aaron Bell",
+    "track": "data",
+    "current_title": "Senior Analytics Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Castanedachester, ND",
+    "skills": [
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Statistical modeling"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "South Jeffrey University of Technology"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Enterprise IT",
+      "Logistics"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 2
+  },
+  "CAND-054": {
+    "candidate_id": "CAND-054",
+    "name": "Allen Rogers",
+    "track": "fullstack",
+    "current_title": "Senior Software Engineer (Fullstack)",
+    "years_experience": 6,
+    "seniority": "Senior",
+    "location": "Ramseymouth, PW",
+    "skills": [
+      "Cypress",
+      "Express.js",
+      "GraphQL",
+      "Microservices",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "New Amanda National College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-055": {
+    "candidate_id": "CAND-055",
+    "name": "Leslie Alvarado",
+    "track": "backend",
+    "current_title": "Backend Developer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Lake Roymouth, HI",
+    "skills": [
+      "Django",
+      "Express.js",
+      "Git",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "West Nicholasborough State University"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-056": {
+    "candidate_id": "CAND-056",
+    "name": "George Hobbs",
+    "track": "frontend",
+    "current_title": "Mid-level Frontend Developer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Karenchester, KS",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "Next.js",
+      "React",
+      "Redux Toolkit",
+      "SQL",
+      "TypeScript",
+      "Vue.js",
+      "Web Accessibility (WCAG 2.1)",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "South Andrewside State University"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-057": {
+    "candidate_id": "CAND-057",
+    "name": "Trevor Walker",
+    "track": "backend",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "Port Susanton, WV",
+    "skills": [
+      "Express.js",
+      "FastAPI",
+      "Git",
+      "Go",
+      "JWT/OAuth2",
+      "Node.js",
+      "Python",
+      "REST API design",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "East Jamestown State University"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-058": {
+    "candidate_id": "CAND-058",
+    "name": "Cynthia Wells",
+    "track": "mobile",
+    "current_title": "Mid-level iOS Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "New Staciemouth, UT",
+    "skills": [
+      "App Store / Play Store release process",
+      "Flutter",
+      "JavaScript (ES6+)",
+      "Kotlin",
+      "Mobile UI patterns",
+      "Push notifications",
+      "React Native",
+      "Test automation",
+      "Xcode"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Katieburgh National College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Travel tech",
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-059": {
+    "candidate_id": "CAND-059",
+    "name": "Tracey Higgins",
+    "track": "backend",
+    "current_title": "Mid-level Platform Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "West Daniel, AK",
+    "skills": [
+      "CSS3",
+      "Django",
+      "Git",
+      "JWT/OAuth2",
+      "Java",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Barbarafurt College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-060": {
+    "candidate_id": "CAND-060",
+    "name": "Miguel Jones",
+    "track": "frontend",
+    "current_title": "Senior React Developer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "North Heidi, ME",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "React",
+      "TypeScript",
+      "Web Accessibility (WCAG 2.1)"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Port Tonyaton College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-061": {
+    "candidate_id": "CAND-061",
+    "name": "Jeffrey Wood",
+    "track": "backend",
+    "current_title": "Mid-level Platform Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Alexanderchester, GU",
+    "skills": [
+      "Docker",
+      "Git",
+      "Go",
+      "JWT/OAuth2",
+      "Kafka",
+      "Kubernetes",
+      "Node.js",
+      "REST API design",
+      "React Native",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Garciastad University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-062": {
+    "candidate_id": "CAND-062",
+    "name": "Sandra Zimmerman",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Thompsonhaven, SD",
+    "skills": [
+      "Cypress",
+      "Docker",
+      "GraphQL",
+      "Jest",
+      "Next.js",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Christinaside College of Engineering"
+    },
+    "certifications": [
+      "PMI Agile Certified Practitioner"
+    ],
+    "domain_experience": [
+      "Fintech / BFSI"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  },
+  "CAND-063": {
+    "candidate_id": "CAND-063",
+    "name": "Julie Petersen",
+    "track": "backend",
+    "current_title": "Staff/Lead Backend Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Marcusbury, MP",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "REST API design",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "West Nicolebury Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  },
+  "CAND-064": {
+    "candidate_id": "CAND-064",
+    "name": "Laura Barnett",
+    "track": "backend",
+    "current_title": "Mid-level Platform Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Anthonymouth, HI",
+    "skills": [
+      "Django",
+      "Git",
+      "Go",
+      "Microservices",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "REST API design",
+      "SQL",
+      "Spring Boot",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Lewisview State University"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Fintech / BFSI",
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-065": {
+    "candidate_id": "CAND-065",
+    "name": "Spencer Haynes",
+    "track": "frontend",
+    "current_title": "Senior UI Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "Angelahaven, ID",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Figma-to-code workflows",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Manual testing",
+      "Next.js",
+      "React",
+      "Storybook",
+      "Tailwind CSS",
+      "TypeScript",
+      "Vite",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "East Jenniferfort National College of Engineering"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Logistics",
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-066": {
+    "candidate_id": "CAND-066",
+    "name": "Cynthia Alvarez",
+    "track": "fullstack",
+    "current_title": "Software Engineer (Fullstack)",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Westtown, CO",
+    "skills": [
+      "CI/CD pipelines",
+      "Docker",
+      "Express.js",
+      "GraphQL",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Jeffreybury Polytechnic Institute"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate"
+    ],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-067": {
+    "candidate_id": "CAND-067",
+    "name": "Kevin Kennedy",
+    "track": "backend",
+    "current_title": "Staff/Lead API Engineer",
+    "years_experience": 9,
+    "seniority": "Staff/Lead",
+    "location": "Ronaldside, MA",
+    "skills": [
+      "Django",
+      "Express.js",
+      "Git",
+      "Go",
+      "GraphQL",
+      "Kafka",
+      "Mobile UI patterns",
+      "Node.js",
+      "REST API design",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Jacquelineview College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-068": {
+    "candidate_id": "CAND-068",
+    "name": "David Griffith",
+    "track": "frontend",
+    "current_title": "UI Engineer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Davidside, WV",
+    "skills": [
+      "CSS3",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Webpack"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "East Javier Polytechnic Institute"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-069": {
+    "candidate_id": "CAND-069",
+    "name": "William Warren",
+    "track": "frontend",
+    "current_title": "Staff/Lead Frontend Developer",
+    "years_experience": 9,
+    "seniority": "Staff/Lead",
+    "location": "Tinaborough, LA",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Cypress",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "React",
+      "Redux",
+      "Storybook",
+      "Tailwind CSS",
+      "TypeScript",
+      "Web Accessibility (WCAG 2.1)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "West Harry University of Technology"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-070": {
+    "candidate_id": "CAND-070",
+    "name": "Joseph Hill",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Developer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "New Kellyberg, SC",
+    "skills": [
+      "CI/CD pipelines",
+      "Cypress",
+      "Docker",
+      "Express.js",
+      "Jest",
+      "Microservices",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Garciatown University of Technology"
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect \u2013 Associate",
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 12
+  },
+  "CAND-071": {
+    "candidate_id": "CAND-071",
+    "name": "Julie Alexander",
+    "track": "fullstack",
+    "current_title": "Fullstack Developer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "North Johnny, VI",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Express.js",
+      "GraphQL",
+      "Jest",
+      "Microservices",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Wilsonland National College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-072": {
+    "candidate_id": "CAND-072",
+    "name": "Benjamin Soto",
+    "track": "fullstack",
+    "current_title": "Senior Software Engineer (Fullstack)",
+    "years_experience": 6,
+    "seniority": "Senior",
+    "location": "East Edwardshire, ME",
+    "skills": [
+      "CI/CD pipelines",
+      "Cypress",
+      "Express.js",
+      "Node.js",
+      "Pandas",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "East Davidchester State University"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-073": {
+    "candidate_id": "CAND-073",
+    "name": "Rachel Perez",
+    "track": "mobile",
+    "current_title": "Principal Android Developer",
+    "years_experience": 12,
+    "seniority": "Principal",
+    "location": "Hayesmouth, ME",
+    "skills": [
+      "Android Studio",
+      "App Store / Play Store release process",
+      "Flutter",
+      "JavaScript (ES6+)",
+      "Kotlin",
+      "Mobile UI patterns",
+      "React Native",
+      "Redux",
+      "Swift",
+      "TypeScript",
+      "Xcode"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Torreston Polytechnic Institute"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Media & streaming",
+      "Logistics"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 12
+  },
+  "CAND-074": {
+    "candidate_id": "CAND-074",
+    "name": "Natalie Meza",
+    "track": "frontend",
+    "current_title": "Staff/Lead React Developer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Lake Jason, TN",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "React",
+      "Redux Toolkit",
+      "SQL",
+      "Storybook",
+      "TypeScript",
+      "Web Accessibility (WCAG 2.1)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "East Johnside National College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "EdTech",
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-075": {
+    "candidate_id": "CAND-075",
+    "name": "Aaron Hayes",
+    "track": "backend",
+    "current_title": "Senior Platform Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Carterbury, LA",
+    "skills": [
+      "Git",
+      "Java",
+      "Kafka",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "REST API design",
+      "Redis",
+      "SQL",
+      "Spring Boot"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Jacquelinemouth Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-076": {
+    "candidate_id": "CAND-076",
+    "name": "David Baker",
+    "track": "fullstack",
+    "current_title": "Senior Fullstack Developer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "South Danny, IN",
+    "skills": [
+      "GraphQL",
+      "Jest",
+      "Next.js",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Computer Science",
+      "school": "West Margaret Institute of Technology"
+    },
+    "certifications": [
+      "PMI Agile Certified Practitioner",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "domain_experience": [
+      "Travel tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-077": {
+    "candidate_id": "CAND-077",
+    "name": "Christopher Parker",
+    "track": "qa",
+    "current_title": "SDET",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Scottmouth, UT",
+    "skills": [
+      "API testing",
+      "CI/CD integration",
+      "Cypress",
+      "JIRA",
+      "JavaScript",
+      "Manual testing",
+      "Python",
+      "Test automation"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Hollyview Polytechnic Institute"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer",
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-078": {
+    "candidate_id": "CAND-078",
+    "name": "Katherine Miller",
+    "track": "backend",
+    "current_title": "Mid-level Backend Developer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "South Jessicaview, AK",
+    "skills": [
+      "Django",
+      "Git",
+      "GraphQL",
+      "Kafka",
+      "Microservices",
+      "Node.js",
+      "REST API design",
+      "Redis",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "East Suzanneshire Polytechnic Institute"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-079": {
+    "candidate_id": "CAND-079",
+    "name": "Alicia Hubbard",
+    "track": "backend",
+    "current_title": "Staff/Lead Backend Developer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Barbaraburgh, NJ",
+    "skills": [
+      "FastAPI",
+      "Git",
+      "GraphQL",
+      "Java",
+      "Kafka",
+      "Microservices",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "Redis",
+      "SQL",
+      "Spring Boot",
+      "Test automation"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Moonburgh Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 8
+  },
+  "CAND-080": {
+    "candidate_id": "CAND-080",
+    "name": "Jessica Olsen",
+    "track": "devops",
+    "current_title": "Mid-level Cloud Infrastructure Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Baileymouth, MD",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "CI/CD",
+      "Docker",
+      "GCP",
+      "GitHub Actions",
+      "Grafana",
+      "Kubernetes",
+      "Linux administration",
+      "Service mesh (Istio)"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Port Eugenechester College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-081": {
+    "candidate_id": "CAND-081",
+    "name": "Donna Landry",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Developer",
+    "years_experience": 9,
+    "seniority": "Staff/Lead",
+    "location": "South Christopherview, MD",
+    "skills": [
+      "CI/CD pipelines",
+      "Cypress",
+      "Docker",
+      "Express.js",
+      "Jest",
+      "Node.js",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Port Richardhaven Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "SaaS / B2B",
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 12
+  },
+  "CAND-082": {
+    "candidate_id": "CAND-082",
+    "name": "April Booth",
+    "track": "frontend",
+    "current_title": "Senior UI Engineer",
+    "years_experience": 4,
+    "seniority": "Senior",
+    "location": "Gutierrezborough, NC",
+    "skills": [
+      "AWS",
+      "CSS3",
+      "Cypress",
+      "Figma-to-code workflows",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React",
+      "Redux Toolkit",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Cindyfort College of Engineering"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "Gaming",
+      "E-commerce"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 12
+  },
+  "CAND-083": {
+    "candidate_id": "CAND-083",
+    "name": "Olivia Harris",
+    "track": "frontend",
+    "current_title": "Senior UI Engineer",
+    "years_experience": 6,
+    "seniority": "Senior",
+    "location": "West Samuel, UT",
+    "skills": [
+      "CSS3",
+      "Figma-to-code workflows",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Micro-frontends",
+      "Next.js",
+      "React",
+      "Redux",
+      "TypeScript",
+      "Vite"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Martinezbury University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Travel tech",
+      "E-commerce"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 4
+  },
+  "CAND-084": {
+    "candidate_id": "CAND-084",
+    "name": "Emily Smith",
+    "track": "data",
+    "current_title": "Senior Analytics Engineer",
+    "years_experience": 6,
+    "seniority": "Senior",
+    "location": "Davisville, NH",
+    "skills": [
+      "A/B testing",
+      "Airflow",
+      "ETL pipeline design",
+      "Machine Learning",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "SQL",
+      "Snowflake",
+      "TensorFlow",
+      "dbt"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Lake Marilynfort University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics",
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-085": {
+    "candidate_id": "CAND-085",
+    "name": "Dorothy Thornton",
+    "track": "devops",
+    "current_title": "Staff/Lead Site Reliability Engineer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Davenportfort, IA",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "Azure",
+      "Bash scripting",
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "Grafana",
+      "HTML5",
+      "Kubernetes",
+      "Service mesh (Istio)",
+      "Terraform"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Arnoldfurt College of Engineering"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-086": {
+    "candidate_id": "CAND-086",
+    "name": "Kyle Francis",
+    "track": "fullstack",
+    "current_title": "Fullstack Developer",
+    "years_experience": 1,
+    "seniority": "Junior",
+    "location": "Port Chad, WI",
+    "skills": [
+      "AWS",
+      "Cypress",
+      "Docker",
+      "Express.js",
+      "Microservices",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Morganhaven Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "E-commerce"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-087": {
+    "candidate_id": "CAND-087",
+    "name": "Aaron Barber",
+    "track": "data",
+    "current_title": "Staff/Lead Data Engineer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "Grimesmouth, ND",
+    "skills": [
+      "A/B testing",
+      "Airflow",
+      "ETL pipeline design",
+      "NumPy",
+      "Pandas",
+      "Power BI",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Reedside National College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 12
+  },
+  "CAND-088": {
+    "candidate_id": "CAND-088",
+    "name": "Jamie Cantu",
+    "track": "frontend",
+    "current_title": "Principal Frontend Engineer",
+    "years_experience": 14,
+    "seniority": "Principal",
+    "location": "Lake John, MS",
+    "skills": [
+      "CSS3",
+      "GraphQL",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Micro-frontends",
+      "Next.js",
+      "React",
+      "Responsive Design",
+      "TypeScript",
+      "Vite",
+      "Vue.js"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "Port Kimberly University of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-089": {
+    "candidate_id": "CAND-089",
+    "name": "Patrick Thornton",
+    "track": "devops",
+    "current_title": "Staff/Lead DevOps Engineer",
+    "years_experience": 9,
+    "seniority": "Staff/Lead",
+    "location": "Hughesberg, NM",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "CI/CD",
+      "Docker",
+      "GitHub Actions",
+      "Grafana",
+      "Helm",
+      "Jenkins",
+      "Kubernetes",
+      "Linux administration",
+      "Prometheus",
+      "Terraform"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "East Wayneshire State University"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Enterprise IT"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 0
+  },
+  "CAND-090": {
+    "candidate_id": "CAND-090",
+    "name": "Brian Kirk",
+    "track": "frontend",
+    "current_title": "Mid-level Frontend Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "New Reneetown, VA",
+    "skills": [
+      "CSS3",
+      "Cypress",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Next.js",
+      "React",
+      "Responsive Design",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "South Monica Polytechnic Institute"
+    },
+    "certifications": [
+      "AWS Certified Developer \u2013 Associate"
+    ],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 2
+  },
+  "CAND-091": {
+    "candidate_id": "CAND-091",
+    "name": "Angela Harrington",
+    "track": "backend",
+    "current_title": "Mid-level Platform Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Matthewfurt, SD",
+    "skills": [
+      "FastAPI",
+      "Git",
+      "GraphQL",
+      "Java",
+      "MongoDB",
+      "Node.js",
+      "REST API design",
+      "RabbitMQ",
+      "SQL"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Port Markside Polytechnic Institute"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 2
+  },
+  "CAND-092": {
+    "candidate_id": "CAND-092",
+    "name": "Eugene Higgins",
+    "track": "fullstack",
+    "current_title": "Mid-level Fullstack Developer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Brennanton, RI",
+    "skills": [
+      "CI/CD pipelines",
+      "Cypress",
+      "GraphQL",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.S. Software Engineering",
+      "school": "East Crystalport College of Engineering"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Gaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 0
+  },
+  "CAND-093": {
+    "candidate_id": "CAND-093",
+    "name": "Nicole Hamilton",
+    "track": "frontend",
+    "current_title": "Staff/Lead Frontend Developer",
+    "years_experience": 9,
+    "seniority": "Staff/Lead",
+    "location": "South Garrettport, MH",
+    "skills": [
+      "Angular",
+      "CSS3",
+      "Cypress",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Jest",
+      "Next.js",
+      "React",
+      "Redux Toolkit",
+      "TypeScript",
+      "Vue.js"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "North Markton University of Technology"
+    },
+    "certifications": [
+      "Certified Kubernetes Administrator (CKA)",
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-094": {
+    "candidate_id": "CAND-094",
+    "name": "James Thomas",
+    "track": "backend",
+    "current_title": "Mid-level Platform Engineer",
+    "years_experience": 3,
+    "seniority": "Mid-level",
+    "location": "Knightburgh, GA",
+    "skills": [
+      "CSS3",
+      "Express.js",
+      "FastAPI",
+      "Git",
+      "GraphQL",
+      "Kafka",
+      "Node.js",
+      "REST API design",
+      "RabbitMQ",
+      "SQL",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "North Chelsea Polytechnic Institute"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 4
+  },
+  "CAND-095": {
+    "candidate_id": "CAND-095",
+    "name": "Michael Jimenez",
+    "track": "frontend",
+    "current_title": "Staff/Lead Frontend Developer",
+    "years_experience": 7,
+    "seniority": "Staff/Lead",
+    "location": "East Steven, KS",
+    "skills": [
+      "CSS3",
+      "Framer Motion",
+      "HTML5",
+      "JavaScript (ES6+)",
+      "Performance profiling (Lighthouse)",
+      "React",
+      "TypeScript",
+      "Vite",
+      "Web Accessibility (WCAG 2.1)",
+      "Zustand"
+    ],
+    "education": {
+      "degree": "B.A. Computer Science",
+      "school": "Scotttown Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Fintech / BFSI",
+      "EdTech"
+    ],
+    "num_previous_companies": 3,
+    "notice_period_weeks": 0
+  },
+  "CAND-096": {
+    "candidate_id": "CAND-096",
+    "name": "Julie Roberts",
+    "track": "backend",
+    "current_title": "Senior Backend Engineer",
+    "years_experience": 5,
+    "seniority": "Senior",
+    "location": "North Scott, MI",
+    "skills": [
+      "Git",
+      "JWT/OAuth2",
+      "Kafka",
+      "Kubernetes",
+      "Mobile UI patterns",
+      "MongoDB",
+      "Node.js",
+      "Python",
+      "REST API design",
+      "SQL",
+      "Spring Boot",
+      "Unit testing (Jest/PyTest)"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "Daniellechester National College of Engineering"
+    },
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "Certified Kubernetes Administrator (CKA)"
+    ],
+    "domain_experience": [
+      "EdTech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 0
+  },
+  "CAND-097": {
+    "candidate_id": "CAND-097",
+    "name": "Joyce Turner",
+    "track": "fullstack",
+    "current_title": "Staff/Lead Fullstack Developer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "Castanedaville, IA",
+    "skills": [
+      "AWS",
+      "Cypress",
+      "Docker",
+      "Jest",
+      "Node.js",
+      "PostgreSQL",
+      "REST API design",
+      "React",
+      "Redux",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "M.S. Computer Science",
+      "school": "Armstrongshire College of Engineering"
+    },
+    "certifications": [
+      "MongoDB Certified Developer"
+    ],
+    "domain_experience": [
+      "Healthcare tech"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 4
+  },
+  "CAND-098": {
+    "candidate_id": "CAND-098",
+    "name": "Michael Johnson",
+    "track": "qa",
+    "current_title": "QA Engineer",
+    "years_experience": 0,
+    "seniority": "Junior",
+    "location": "Hillshire, VI",
+    "skills": [
+      "API testing",
+      "CI/CD integration",
+      "Cypress",
+      "JIRA",
+      "JavaScript (ES6+)",
+      "Manual testing",
+      "Performance testing (JMeter)",
+      "Postman",
+      "Python",
+      "Selenium",
+      "Test automation"
+    ],
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "school": "New Julieport Institute of Technology"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Media & streaming"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-099": {
+    "candidate_id": "CAND-099",
+    "name": "Crystal Pham",
+    "track": "fullstack",
+    "current_title": "Mid-level Fullstack Engineer",
+    "years_experience": 2,
+    "seniority": "Mid-level",
+    "location": "Lake James, KS",
+    "skills": [
+      "AWS",
+      "CI/CD pipelines",
+      "Cypress",
+      "Docker",
+      "GraphQL",
+      "JIRA",
+      "Jest",
+      "Microservices",
+      "Node.js",
+      "REST API design",
+      "React",
+      "SQL",
+      "TypeScript"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Lake Colton National College of Engineering"
+    },
+    "certifications": [
+      "Google Cloud Professional Developer"
+    ],
+    "domain_experience": [
+      "SaaS / B2B"
+    ],
+    "num_previous_companies": 1,
+    "notice_period_weeks": 8
+  },
+  "CAND-100": {
+    "candidate_id": "CAND-100",
+    "name": "Amanda Kramer",
+    "track": "devops",
+    "current_title": "Staff/Lead Cloud Infrastructure Engineer",
+    "years_experience": 8,
+    "seniority": "Staff/Lead",
+    "location": "New Michaelberg, CO",
+    "skills": [
+      "AWS",
+      "Ansible",
+      "Azure",
+      "CI/CD",
+      "Docker",
+      "Git",
+      "GitHub Actions",
+      "Helm",
+      "Jenkins",
+      "Kubernetes",
+      "Prometheus",
+      "Terraform"
+    ],
+    "education": {
+      "degree": "B.E. Information Technology",
+      "school": "Markchester State University"
+    },
+    "certifications": [],
+    "domain_experience": [
+      "Logistics",
+      "Travel tech"
+    ],
+    "num_previous_companies": 2,
+    "notice_period_weeks": 8
+  }
+}

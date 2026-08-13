@@ -1,0 +1,19 @@
+Brian Kirk
+Mid-level Frontend Engineer  |  New Reneetown, VA  |  2 years experience
+email: brian.kirk@example.com
+
+SUMMARY
+Mid-level frontend engineer with 2 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, Framer Motion, HTML5, JavaScript (ES6+), Next.js, React, Responsive Design, TypeScript
+
+EXPERIENCE
+- Mid-level Frontend Engineer, Wilkerson-Arias (2 yrs)
+    Built and maintained systems using JavaScript (ES6+), Next.js, React; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.A. Computer Science, South Monica Polytechnic Institute
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

@@ -1,0 +1,19 @@
+Christopher Parker
+SDET  |  Scottmouth, UT  |  0 years experience
+email: christopher.parker@example.com
+
+SUMMARY
+Junior qa engineer with 0 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+API testing, CI/CD integration, Cypress, JIRA, JavaScript, Manual testing, Python, Test automation
+
+EXPERIENCE
+- SDET, Osborn, Gaines and Davis (1 yr)
+    Built and maintained systems using JIRA, Manual testing, JavaScript; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.S. Software Engineering, Hollyview Polytechnic Institute
+
+CERTIFICATIONS
+Google Cloud Professional Developer, AWS Certified Developer – Associate

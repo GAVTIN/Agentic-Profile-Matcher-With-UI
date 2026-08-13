@@ -1,0 +1,19 @@
+Crystal Pham
+Mid-level Fullstack Engineer  |  Lake James, KS  |  2 years experience
+email: crystal.pham@example.com
+
+SUMMARY
+Mid-level fullstack engineer with 2 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD pipelines, Cypress, Docker, GraphQL, JIRA, Jest, Microservices, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Mid-level Fullstack Engineer, Mendez and Sons (2 yrs)
+    Built and maintained systems using TypeScript, JIRA, CI/CD pipelines; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.E. Information Technology, Lake Colton National College of Engineering
+
+CERTIFICATIONS
+Google Cloud Professional Developer

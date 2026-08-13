@@ -1,0 +1,16 @@
+Julie Alexander
+Fullstack Developer  |  North Johnny, VI  |  0 years experience
+email: julie.alexander@example.com
+
+SUMMARY
+Junior fullstack engineer with 0 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Docker, Express.js, GraphQL, Jest, Microservices, MongoDB, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Fullstack Developer, Cox LLC (1 yr)
+    Built and maintained systems using GraphQL, Docker, MongoDB; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.E. Information Technology, Wilsonland National College of Engineering

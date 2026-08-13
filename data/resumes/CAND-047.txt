@@ -1,0 +1,21 @@
+Michael Snyder
+Senior Frontend Engineer  |  East Diana, AL  |  5 years experience
+email: michael.snyder@example.com
+
+SUMMARY
+Senior frontend engineer with 5 years of experience building production software, primarily in Travel tech and Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Figma-to-code workflows, HTML5, JavaScript (ES6+), React, Responsive Design, Storybook, Tailwind CSS, TypeScript
+
+EXPERIENCE
+- Senior Frontend Engineer, Estrada, Williams and Foster (2 yrs)
+    Built and maintained systems using TypeScript, Storybook, Figma-to-code workflows; partnered cross-functionally to ship features in Gaming.
+- UI Engineer, Brown, Harris and Dougherty (3 yrs)
+    Built and maintained systems using Tailwind CSS, React, HTML5; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.E. Information Technology, Port Ronaldburgh University of Technology
+
+CERTIFICATIONS
+Google Cloud Professional Developer

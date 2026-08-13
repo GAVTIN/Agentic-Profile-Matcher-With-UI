@@ -1,0 +1,16 @@
+Brittany Williams
+Mobile Engineer  |  Carrland, NH  |  0 years experience
+email: brittany.williams@example.com
+
+SUMMARY
+Junior mobile engineer with 0 years of experience building production software, primarily in E-commerce. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Android Studio, App Store / Play Store release process, Flutter, JavaScript (ES6+), Mobile UI patterns, React Native, Swift, TypeScript, Xcode
+
+EXPERIENCE
+- Mobile Engineer, Gregory-Watkins (1 yr)
+    Built and maintained systems using TypeScript, React Native, Swift; partnered cross-functionally to ship features in E-commerce.
+
+EDUCATION
+B.Tech Computer Science, Mercadoshire Polytechnic Institute

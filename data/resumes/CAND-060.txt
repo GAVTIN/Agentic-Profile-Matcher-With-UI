@@ -1,0 +1,20 @@
+Miguel Jones
+Senior React Developer  |  North Heidi, ME  |  5 years experience
+email: miguel.jones@example.com
+
+SUMMARY
+Senior frontend engineer with 5 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, HTML5, JavaScript (ES6+), Micro-frontends, React, TypeScript, Web Accessibility (WCAG 2.1)
+
+EXPERIENCE
+- Senior React Developer, Mullen, Brewer and Hernandez (1 yr)
+    Built and maintained systems using HTML5, JavaScript (ES6+), Micro-frontends; partnered cross-functionally to ship features in SaaS / B2B.
+- UI Engineer, Thomas and Sons (2 yrs)
+    Built and maintained systems using Cypress, CSS3, Web Accessibility (WCAG 2.1); partnered cross-functionally to ship features in SaaS / B2B.
+- React Developer, Morrison Ltd (2 yrs)
+    Built and maintained systems using React, JavaScript (ES6+), HTML5; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.Tech Computer Science, Port Tonyaton College of Engineering

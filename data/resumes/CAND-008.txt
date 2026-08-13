@@ -1,0 +1,16 @@
+Henry Santiago
+Staff/Lead Analytics Engineer  |  New Cynthiaside, VA  |  10 years experience
+email: henry.santiago@example.com
+
+SUMMARY
+Staff/Lead data engineer with 10 years of experience building production software, primarily in Fintech / BFSI. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+A/B testing, Airflow, CSS3, ETL pipeline design, Pandas, Power BI, Python, SQL, Statistical modeling, Tableau
+
+EXPERIENCE
+- Staff/Lead Analytics Engineer, Turner, Ortiz and Taylor (10 yrs)
+    Built and maintained systems using Power BI, ETL pipeline design, SQL; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.S. Computer Science, East Steven Polytechnic Institute

@@ -1,0 +1,18 @@
+Julie Petersen
+Staff/Lead Backend Engineer  |  Marcusbury, MP  |  7 years experience
+email: julie.petersen@example.com
+
+SUMMARY
+Staff/Lead backend engineer with 7 years of experience building production software, primarily in EdTech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Git, MongoDB, Node.js, Python, REST API design, SQL, Spring Boot
+
+EXPERIENCE
+- Staff/Lead Backend Engineer, Downs, Morris and Maddox (3 yrs)
+    Built and maintained systems using SQL, Python, Node.js; partnered cross-functionally to ship features in EdTech.
+- Backend Developer, Hernandez-Jones (4 yrs)
+    Built and maintained systems using Python, Spring Boot, Git; partnered cross-functionally to ship features in EdTech.
+
+EDUCATION
+B.S. Computer Science, West Nicolebury Institute of Technology

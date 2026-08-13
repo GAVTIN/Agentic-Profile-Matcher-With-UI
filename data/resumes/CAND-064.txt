@@ -1,0 +1,23 @@
+Laura Barnett
+Mid-level Platform Engineer  |  Anthonymouth, HI  |  3 years experience
+email: laura.barnett@example.com
+
+SUMMARY
+Mid-level backend engineer with 3 years of experience building production software, primarily in Fintech / BFSI and Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Git, Go, Microservices, Node.js, PostgreSQL, Python, REST API design, SQL, Spring Boot, Unit testing (Jest/PyTest)
+
+EXPERIENCE
+- Mid-level Platform Engineer, Welch-Hogan (1 yr)
+    Built and maintained systems using REST API design, Spring Boot, Git; partnered cross-functionally to ship features in Fintech / BFSI.
+- API Engineer, Brown, Romero and Collins (1 yr)
+    Built and maintained systems using PostgreSQL, Go, Python; partnered cross-functionally to ship features in Healthcare tech.
+- API Engineer, Johnson-Wood (1 yr)
+    Built and maintained systems using SQL, Go, REST API design; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.A. Computer Science, Lewisview State University
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)

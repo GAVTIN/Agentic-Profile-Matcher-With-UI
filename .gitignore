@@ -1,0 +1,29 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Vector store (regenerated on first live-mode run; large binary files
+# don't belong in git)
+data/vector_store/
+
+# Generated reports (transient output - the repo ships with the dataset,
+# not with prior run artifacts)
+data/reports/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

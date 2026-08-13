@@ -1,0 +1,20 @@
+Donna Landry
+Staff/Lead Fullstack Developer  |  South Christopherview, MD  |  9 years experience
+email: donna.landry@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 9 years of experience building production software, primarily in SaaS / B2B and Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CI/CD pipelines, Cypress, Docker, Express.js, Jest, Node.js, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Developer, Stanley PLC (3 yrs)
+    Built and maintained systems using Redux, CI/CD pipelines, Docker; partnered cross-functionally to ship features in SaaS / B2B.
+- Software Engineer (Fullstack), Harper and Sons (3 yrs)
+    Built and maintained systems using CI/CD pipelines, REST API design, Cypress; partnered cross-functionally to ship features in Enterprise IT.
+- Fullstack Developer, White Ltd (3 yrs)
+    Built and maintained systems using Jest, Node.js, Cypress; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.E. Information Technology, Port Richardhaven Polytechnic Institute

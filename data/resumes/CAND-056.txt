@@ -1,0 +1,19 @@
+George Hobbs
+Mid-level Frontend Developer  |  Karenchester, KS  |  2 years experience
+email: george.hobbs@example.com
+
+SUMMARY
+Mid-level frontend engineer with 2 years of experience building production software, primarily in Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, Cypress, HTML5, JavaScript (ES6+), Micro-frontends, Next.js, React, Redux Toolkit, SQL, TypeScript, Vue.js, Web Accessibility (WCAG 2.1), Webpack
+
+EXPERIENCE
+- Mid-level Frontend Developer, Graham Group (2 yrs)
+    Built and maintained systems using JavaScript (ES6+), React, Cypress; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.E. Information Technology, South Andrewside State University
+
+CERTIFICATIONS
+Google Cloud Professional Developer, Meta Front-End Developer Professional Certificate

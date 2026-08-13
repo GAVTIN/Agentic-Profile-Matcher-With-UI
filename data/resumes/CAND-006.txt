@@ -1,0 +1,21 @@
+Kimberly Dudley
+Senior Fullstack Engineer  |  Millerport, MP  |  5 years experience
+email: kimberly.dudley@example.com
+
+SUMMARY
+Senior fullstack engineer with 5 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, CI/CD pipelines, Cypress, Docker, GraphQL, Jest, Microservices, Next.js, Node.js, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Senior Fullstack Engineer, Richards-Carson (2 yrs)
+    Built and maintained systems using Docker, SQL, React; partnered cross-functionally to ship features in Healthcare tech.
+- Software Engineer (Fullstack), Rodriguez-Hall (3 yrs)
+    Built and maintained systems using REST API design, Docker, Next.js; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+B.S. Computer Science, Barbaraland University of Technology
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

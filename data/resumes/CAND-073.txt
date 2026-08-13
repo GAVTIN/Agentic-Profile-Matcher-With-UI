@@ -1,0 +1,23 @@
+Rachel Perez
+Principal Android Developer  |  Hayesmouth, ME  |  12 years experience
+email: rachel.perez@example.com
+
+SUMMARY
+Principal mobile engineer with 12 years of experience building production software, primarily in Media & streaming and Logistics. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Android Studio, App Store / Play Store release process, Flutter, JavaScript (ES6+), Kotlin, Mobile UI patterns, React Native, Redux, Swift, TypeScript, Xcode
+
+EXPERIENCE
+- Principal Android Developer, Williams, Mccoy and Cook (4 yrs)
+    Built and maintained systems using Xcode, Flutter, App Store / Play Store release process; partnered cross-functionally to ship features in Media & streaming.
+- iOS Developer, Davis-Gregory (4 yrs)
+    Built and maintained systems using Android Studio, Flutter, Redux; partnered cross-functionally to ship features in Logistics.
+- Android Developer, King-York (4 yrs)
+    Built and maintained systems using Flutter, Mobile UI patterns, Xcode; partnered cross-functionally to ship features in Logistics.
+
+EDUCATION
+B.Tech Computer Science, Torreston Polytechnic Institute
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

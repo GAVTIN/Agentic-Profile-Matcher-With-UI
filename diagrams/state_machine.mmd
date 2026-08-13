@@ -1,0 +1,18 @@
+flowchart TD
+    START([START]) --> parse_jd["Parse JD"]
+    parse_jd --> extract_req["Extract Requirements<br/><i>must-have vs nice-to-have</i>"]
+    extract_req --> search["Search Resumes<br/><i>RAG over the full pool (Milestone 2)</i>"]
+    search --> rank["Rank Candidates<br/><i>Round 1 — top 10 of 100</i>"]
+    rank --> report["Generate Report<br/><i>Round 2 — deep analysis of the 10</i>"]
+    report --> feedback{{"Human Feedback Loop<br/><i>interrupt() — pauses for you</i>"}}
+
+    feedback -->|"refine requirements<br/>(real re-rank)"| rank
+    feedback -->|"compare / explain / interview Qs /<br/>hire rec. (Round 3) / anything else"| feedback
+    feedback -->|"you're done"| END([END])
+
+    classDef pipeline fill:#f2f0ff,stroke:#8b7fd1,stroke-width:1px
+    classDef loop fill:#fff4e0,stroke:#e0a83e,stroke-width:1px
+    classDef terminal fill:#bfb6fc,stroke:#6b5fb8,stroke-width:1px
+    class parse_jd,extract_req,search,rank,report pipeline
+    class feedback loop
+    class START,END terminal

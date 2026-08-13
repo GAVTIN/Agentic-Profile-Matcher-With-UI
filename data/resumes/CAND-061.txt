@@ -1,0 +1,16 @@
+Jeffrey Wood
+Mid-level Platform Engineer  |  Alexanderchester, GU  |  3 years experience
+email: jeffrey.wood@example.com
+
+SUMMARY
+Mid-level backend engineer with 3 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Docker, Git, Go, JWT/OAuth2, Kafka, Kubernetes, Node.js, REST API design, React Native, SQL
+
+EXPERIENCE
+- Mid-level Platform Engineer, Thompson Ltd (3 yrs)
+    Built and maintained systems using JWT/OAuth2, Kafka, Git; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+B.Tech Computer Science, Garciastad University of Technology

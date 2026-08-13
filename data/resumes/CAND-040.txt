@@ -1,0 +1,19 @@
+Debbie Carpenter
+Mid-level Software Engineer (Fullstack)  |  Benjaminchester, MI  |  2 years experience
+email: debbie.carpenter@example.com
+
+SUMMARY
+Mid-level fullstack engineer with 2 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+AWS, Cypress, Express.js, Jest, Microservices, MongoDB, Next.js, Node.js, PostgreSQL, REST API design, React, SQL, TypeScript
+
+EXPERIENCE
+- Mid-level Software Engineer (Fullstack), Moore-Collins (2 yrs)
+    Built and maintained systems using AWS, Microservices, React; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+M.S. Computer Science, Samuelhaven National College of Engineering
+
+CERTIFICATIONS
+MongoDB Certified Developer

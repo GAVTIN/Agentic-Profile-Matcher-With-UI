@@ -1,0 +1,19 @@
+Timothy Watts
+Mid-level UI Engineer  |  Lake Mark, WI  |  2 years experience
+email: timothy.watts@example.com
+
+SUMMARY
+Mid-level frontend engineer with 2 years of experience building production software, primarily in Healthcare tech. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Angular, CSS3, Cypress, HTML5, JavaScript (ES6+), Jest, Next.js, React, Storybook, TypeScript, Vue.js
+
+EXPERIENCE
+- Mid-level UI Engineer, Torres Group (2 yrs)
+    Built and maintained systems using Cypress, Next.js, Jest; partnered cross-functionally to ship features in Healthcare tech.
+
+EDUCATION
+B.Tech Computer Science, East Lydiamouth State University
+
+CERTIFICATIONS
+Google Cloud Professional Developer

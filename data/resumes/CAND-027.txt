@@ -1,0 +1,19 @@
+Cynthia Wilson
+Mid-level API Engineer  |  New Brooke, RI  |  2 years experience
+email: cynthia.wilson@example.com
+
+SUMMARY
+Mid-level backend engineer with 2 years of experience building production software, primarily in Gaming. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Django, Git, Java, Node.js, REST API design, Redis, SQL
+
+EXPERIENCE
+- Mid-level API Engineer, Perry-Davis (2 yrs)
+    Built and maintained systems using Redis, Git, REST API design; partnered cross-functionally to ship features in Gaming.
+
+EDUCATION
+B.Tech Computer Science, South Dianeshire Institute of Technology
+
+CERTIFICATIONS
+Google Cloud Professional Developer

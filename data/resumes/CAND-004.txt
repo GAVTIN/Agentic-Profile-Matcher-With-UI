@@ -1,0 +1,23 @@
+Marcus Webb
+Mid-level Frontend Developer  |  Port Lindachester, MA  |  3 years experience
+email: marcus.webb@example.com
+
+SUMMARY
+Mid-level frontend engineer with 3 years of experience building production software, primarily in Logistics and Enterprise IT. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+CSS3, HTML5, JavaScript (ES6+), Jest, React, Redux, Redux Toolkit, Tailwind CSS, TypeScript
+
+EXPERIENCE
+- Mid-level Frontend Developer, Webster and Sons (1 yr)
+    Built and maintained systems using Redux Toolkit, JavaScript (ES6+), HTML5; partnered cross-functionally to ship features in Enterprise IT.
+- Frontend Developer, Ramsey, Whitney and Coffey (1 yr)
+    Built and maintained systems using React, Tailwind CSS, HTML5; partnered cross-functionally to ship features in Logistics.
+- UI Engineer, Diaz, Gibbs and Smith (1 yr)
+    Built and maintained systems using Redux Toolkit, React, Jest; partnered cross-functionally to ship features in Enterprise IT.
+
+EDUCATION
+B.Tech Computer Science, Ericmouth Institute of Technology
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

@@ -1,0 +1,21 @@
+Sandra Zimmerman
+Staff/Lead Fullstack Engineer  |  Thompsonhaven, SD  |  7 years experience
+email: sandra.zimmerman@example.com
+
+SUMMARY
+Staff/Lead fullstack engineer with 7 years of experience building production software, primarily in Fintech / BFSI. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Cypress, Docker, GraphQL, Jest, Next.js, Node.js, REST API design, React, Redux, SQL, TypeScript
+
+EXPERIENCE
+- Staff/Lead Fullstack Engineer, Marshall-Elliott (3 yrs)
+    Built and maintained systems using Redux, SQL, Next.js; partnered cross-functionally to ship features in Fintech / BFSI.
+- Software Engineer (Fullstack), Cole, Glass and Cunningham (4 yrs)
+    Built and maintained systems using Next.js, Jest, Redux; partnered cross-functionally to ship features in Fintech / BFSI.
+
+EDUCATION
+B.E. Information Technology, Christinaside College of Engineering
+
+CERTIFICATIONS
+PMI Agile Certified Practitioner

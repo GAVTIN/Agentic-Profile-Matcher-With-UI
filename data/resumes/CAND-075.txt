@@ -1,0 +1,16 @@
+Aaron Hayes
+Senior Platform Engineer  |  Carterbury, LA  |  4 years experience
+email: aaron.hayes@example.com
+
+SUMMARY
+Senior backend engineer with 4 years of experience building production software, primarily in SaaS / B2B. Comfortable owning features end-to-end and collaborating closely with product and design.
+
+SKILLS
+Git, Java, Kafka, MongoDB, Node.js, Python, REST API design, Redis, SQL, Spring Boot
+
+EXPERIENCE
+- Senior Platform Engineer, Hale, Myers and Larson (4 yrs)
+    Built and maintained systems using Redis, Spring Boot, Python; partnered cross-functionally to ship features in SaaS / B2B.
+
+EDUCATION
+M.S. Computer Science, Jacquelinemouth Institute of Technology
