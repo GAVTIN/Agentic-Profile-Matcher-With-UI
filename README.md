@@ -6,6 +6,18 @@ Runs two ways: fully offline with a rule-based fallback (zero setup, zero API ke
 
 Built for an AI-agent-engineering course assignment (see [Assignment brief coverage](#assignment-brief-coverage) below), structured as a standalone project.
 
+## UI
+*Initial Screen Via Streamlit*
+
+![alt text](image.png)
+
+*Post Search Screen Via Streamlit*
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 ## Demo
 
 ```bash
